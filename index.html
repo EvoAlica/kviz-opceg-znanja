@@ -1,0 +1,181 @@
+
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kviz Općeg Znanja</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: start;
+      min-height: 100vh;
+    }
+
+    h1 {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    .quiz-container {
+      width: 90%;
+      max-width: 500px;
+      background: white;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 10px;
+    }
+
+    .question {
+      font-size: 18px;
+      margin-bottom: 15px;
+    }
+
+    .answer {
+      display: block;
+      width: 100%;
+      padding: 12px;
+      margin: 6px 0;
+      background: #eee;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      text-align: left;
+      cursor: pointer;
+    }
+
+    .correct {
+      background-color: #c8e6c9;
+    }
+
+    .wrong {
+      background-color: #ffcdd2;
+    }
+
+    #nextBtn {
+      margin-top: 20px;
+      padding: 12px;
+      width: 100%;
+      background: #2196f3;
+      color: white;
+      border: none;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    #startScreen {
+      display: flex;
+      flex-direction: column;
+      width: 90%;
+      max-width: 500px;
+      margin-top: 40px;
+    }
+
+    #startScreen input {
+      padding: 10px;
+      margin: 8px 0;
+      font-size: 16px;
+      width: 100%;
+    }
+
+    #startBtn {
+      padding: 12px;
+      font-size: 16px;
+      background: #4caf50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Kviz Općeg Znanja</h1>
+
+<div id="startScreen">
+  <input type="text" id="name" placeholder="Ime">
+  <input type="text" id="surname" placeholder="Prezime">
+  <input type="email" id="email" placeholder="Email">
+  <button id="startBtn">Započni Kviz</button>
+</div>
+
+<div class="quiz-container" id="quizContainer" style="display:none;">
+  <div class="question" id="questionText"></div>
+  <div id="answersContainer"></div>
+  <button id="nextBtn">Sljedeće</button>
+</div>
+
+<script>
+let currentQuestion = 0;
+let questions = [];
+
+document.getElementById('startBtn').onclick = () => {
+  if (document.getElementById('name').value &&
+      document.getElementById('surname').value &&
+      document.getElementById('email').value) {
+    document.getElementById('startScreen').style.display = 'none';
+    document.getElementById('quizContainer').style.display = 'block';
+    loadQuestions();
+  } else {
+    alert("Molimo unesite sve podatke.");
+  }
+};
+
+async function loadQuestions() {
+  const response = await fetch('questions.json');
+  questions = await response.json();
+  shuffleArray(questions);
+  showQuestion();
+}
+
+function showQuestion() {
+  const q = questions[currentQuestion];
+  document.getElementById('questionText').innerText = q.q;
+  const answersContainer = document.getElementById('answersContainer');
+  answersContainer.innerHTML = '';
+  q.a.forEach((ans, i) => {
+    const btn = document.createElement('button');
+    btn.innerText = ans;
+    btn.classList.add('answer');
+    btn.onclick = () => checkAnswer(i, q.correct);
+    answersContainer.appendChild(btn);
+  });
+}
+
+function checkAnswer(selectedIndex, correctIndex) {
+  const buttons = document.querySelectorAll('.answer');
+  buttons.forEach((btn, i) => {
+    btn.disabled = true;
+    if (i === correctIndex) btn.classList.add('correct');
+    if (i === selectedIndex && i !== correctIndex) btn.classList.add('wrong');
+  });
+}
+
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+
+document.getElementById('nextBtn').onclick = () => {
+  currentQuestion++;
+  if (currentQuestion < questions.length) {
+    showQuestion();
+  } else {
+    document.getElementById('quizContainer').innerHTML = '<h2>Završili ste kviz!</h2>';
+  }
+};
+</script>
+
+</body>
+</html>

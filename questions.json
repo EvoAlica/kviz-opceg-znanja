@@ -1,0 +1,4536 @@
+[
+  {
+    "q": "1.Zakoni i odluke svih vlasti Brčko Distrikta BiH moraju biti:",
+    "a": [
+      "U skladu sa važećim zakonima i odlukama institucija BiH",
+      "U skladu sa zakonima i odlukama RS",
+      "U skladu sa zakonima i odlukama F BiH"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "2.Grb i zastava Brčko Distrikta su:",
+    "a": [
+      "Grb i zastava BiH",
+      "Specifičan grb i zastava Brčko Distrikta",
+      "Grb i zastava F BiH"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "3.Šefa policije Brčko Distrikta imenuje:",
+    "a": [
+      "Predsjednik Skupštine Distrikta",
+      "Gradonačelnik bez saglasnosti Skupštine na osnovu kriterija",
+      "Gradonačelnik uz saglasnost Skupštine na osnovu kriterija i stručnosti i preporuke nezavisnog odbora za izbor  kandidata osnovanog u skladu sa zakonom"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "4.Da li kandidati za gradonačelnika moraju biti iz reda članova Skupštine?",
+    "a": [
+      "DA",
+      "Ne",
+      "Moraju biti iz reda članova Vlade Distrikta"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "5.Brčko Distrikt ima pečat:",
+    "a": [
+      "Kvadratnog oblika sa tekstom Brčko Distrikt na bosanskom jeziku",
+      "Okruglog oblika s tekstom BiH,Brčko Distrikt BiH i ispisan latinicnim i cirilicnim pismom",
+      "Okruglog oblika s tekstom BiH"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "6.Vlast u Brčko Distriktu se dijeli na:",
+    "a": [
+      "Zakonodavnu,izvršnu i nadzornu",
+      "Zakonodavnu,izvršnu i sudsku",
+      "Zakonodavnu,izvršnu i administrativnu"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "7.Pravni položaj Brčko Distrikta BiH uređen je:",
+    "a": [
+      "Zakonom o Brčko Distriktu BiH",
+      "Ustavom BiH",
+      "Statutom Brčko distrikta BiH"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "8.Sporove u vezi za zaštitom utvrđenog statusa i ovlaštenja Brčko Distrikta BiH između distrikta i entiteta i između  Distrikta i BiH rješava:",
+    "a": [
+      "Predsjedništvo Bih",
+      "Visoki predstavnik za BiH",
+      "Ustavni sud BiH"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "9.Gradonačelnik ne može imati više od:",
+    "a": [
+      "4 savjetnika",
+      "Šest savjetnika",
+      "Pet"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "10.Zakoni Distrikta,odluke,rezolucije Skupštine Distrikta u skladu sa Statutom objavljuju se:",
+    "a": [
+      "U službenom glasniku BiH",
+      "U službenom glasilu Brčko Distrikta",
+      "Na zvaničnoj web stranici Brčko distrikta"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "11.Koji jezici i pisma se upotrebljavaju za sve službene svrhe u Brčko Distriktu BiH?",
+    "a": [
+      "Bosanski,hrvatski i srpski,te latinično i cirilicno pismo su u ravnopravnoj upotrebi za sve službene svrhe",
+      "Samo bosanski i hrvatski jezik i latinicnim pismom",
+      "Bosanski jezik s latinicnim pismom i srpsi s cirilicnim pismom"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "12.Skupština Brčko distrikta se saziva:",
+    "a": [
+      "Najmanje tri puta mjesecno",
+      "Najmanje dva puta mjesecno",
+      "Najmanje jednom mjesecno"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "13.Za sprovođenje zakona u Brčko Distriktu BiH i pravilno rukovođenje i upravljanje Distriktom odgovaran je:",
+    "a": [
+      "Visoki predstavnik za Brčko Distrikt",
+      "Gradonačelnik",
+      "Predsjednik Skupštine"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "14.Sjednicom Vlade Brčko Distrikta BiH predsjedava:",
+    "a": [
+      "Glavni koordinator Vlade",
+      "Gradonačelnik",
+      "Zamjenik gradonačelnika"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "15.Skupština Brčko Distrikta se sastoji od:",
+    "a": [
+      "25 poslanika od kojih četiri predstavljaju nacionalne manjine",
+      "31 poslanika od kojih dva predstavljaju nacionalne manjine u Distriktu",
+      "33 poslanika"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "16.Teritorij Brčko Distrikta BiH je u svojini:",
+    "a": [
+      "Federacije BiH",
+      "Stanovništva Brčko Distrikta BiH",
+      "Vlade Brčko distrikta"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "17.Prijedlog proračuna budžeta Brčko Distrikta BiH Skupštini podnosi:",
+    "a": [
+      "Gradonačelnik u ime Vlade Distrikta",
+      "Predsjednik Skupštine Distrikta",
+      "Savjet ministara Distrikta"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "18.Proračun budžeta Brčko Distrikta usvaja:",
+    "a": [
+      "Skupština najmanje 30 dana prije isteka svake fiskalne godine",
+      "Skupština najmanje 60 dana prije isteka svake fiskalne godine",
+      "Vlada Distrikta najmanje 30 dana"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "19.Na koji način Skupština donosi Odluke?",
+    "a": [
+      "Donosi odluke tropetinskom većinom glasova zastupnika koji su prisutni i glasaju",
+      "Donosi odluke većinom glasova svih zastupnika",
+      "Donosi odluke dvotrećinskom većinom glasova zastupnika koji su prisutni i glasaju"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "20.Teritorij Brčko distrikta Bih obuhvata cjelokupni teritorij općine Brčko u granicama od:",
+    "a": [
+      "1 maja 1999 godine",
+      "7 decembra 1999 godine",
+      "1 januara 1999 godine"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "21.Ko može sazvati sjednicu Skupštine?",
+    "a": [
+      "Glavni koordinator Vlade",
+      "Gradonačelnik Brčko distrikta",
+      "Predsjednik Skupštine ili na pismeni zahtjev pet zastupnika,onoliko često koliko je neophodno za vršenje funkcije  Skupštine"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "22.Gradonačelnik je odgovaran za pravilno rukovođenje i upravljanje Distriktom:",
+    "a": [
+      "Skupštini Distrikta Brčko",
+      "Vladi F BiH",
+      "Predjsedništvu BiH"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "23.Brčko distrikt predstavlja:",
+    "a": [
+      "Gradonačelnik",
+      "Premijer",
+      "Predsjednik skupštine"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "24.Kandidata za mjesto gradonačelnika može nominovati:",
+    "a": [
+      "Samo predsjednik Skupštine",
+      "Svaki građanin Brčko Distrikta",
+      "Svaki zastupnik skupštine Brčko distrikta BiH"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "25.U ovlasti Distrikta spada:",
+    "a": [
+      "Pravosuđe i služba pravne pomoći,finansije Distrikts,carinska uprava dok obrana ne spada u ovlasti Distrikta",
+      "Samo carinska uprava i pravosuđe",
+      "Finansije i odbrana"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "26.Da li stanovnici Distrikta imaju pravo izbora ili promjene svog državljanstva?",
+    "a": [
+      "Da,imaju"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "27.Javnu upravu Brčko Distrikta čine:",
+    "a": [
+      "Odjeljenja Vlade Distrikta,kancelarija geadonačelnika,direkcija za finansije Distrikta i ostali organi",
+      "Odjeljenja Vlade Distrikta,kancelarija gradonačelnika,direkcija za finansije Distrikta,kancelarija za upravljanje  javnom imovinom,kancelarija kordinatora za Brčko Distrikt pri Vijeću ministara BiH i ostali organi uprave kada je  to zakonom predviđeno"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "28.Gradonačelnika Distrikta bira:",
+    "a": [
+      "Predsjedništvo Bih",
+      "Skupština",
+      "Gradonačelnik prethodne administracije"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "29.Sudije,tužioce Brčko Distrikta imenuje i razrješava:",
+    "a": [
+      "Savjet ministara Bih",
+      "Skupština",
+      "Visoko sudsko i tužilaćko vijeće"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "30.Pravo predlaganja zakona u Brčko Distriktu BiH ima:",
+    "a": [
+      "Samo članovi Vlade Distrikta",
+      "Samo predsjednik",
+      "Svaki zastupnik.gradonačelnik u ime Vlade Brčko distrikta Bih i pravosudno povjerenstvokomisija"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "31.Prema izbornom zakonu BiH,za člana izborne komisije ili biračkog odbora ne može biti imenovano lice koje je:",
+    "a": [
+      "Državni službenik",
+      "Član političke stranke ili koalicije",
+      "Član najvišeg izvršno političkog organa političke stranke ili koalicije"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "32.Prema Ustavu Federacije,poslanici u Predstavničkom domu biraju se demokratskim putem:",
+    "a": [
+      "Od strane kantonalnih skupština iz reda svojih poslanika",
+      "Na neposrednim izborima tajnim glasanjem na teritoriji cijele Federacije",
+      "Od strane opcinskih vijeca"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "33.Postupak pred Ustavnim sudom BiH reguliše:",
+    "a": [
+      "Parlamentarna skupština BiH,zakonom o postupku pred Ustavnim sudom",
+      "Sud,koji većinom glasova svih članova usvaja svoja pravila o radu",
+      "Poslovnikom koji usvaja većinom glasova svih članova Sud,a odobrava Predsjedništvo"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "34.Ustavom Federacije nije zagarantovano pravo svih osoba na teritoriji Federacije na:",
+    "a": [
+      "Zdrav i siguran okoliš",
+      "Prehranu",
+      "Utočište"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "35.Predsjednik ili jedan od potpredsjednika Federacije može biti smijenjen odlukom Ustavnog suda Federacije ukoliko:",
+    "a": [
+      "Prekrši zakletvu ili iz drugih razloga nedostojan te funkcije",
+      "Nalazi u pritvoru",
+      "Stranka koja ga je predložila prestane učestvovati u vršenju izvršne vlasti"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "36.Prema Ustavu Federacije turizam je u:",
+    "a": [
+      "Nadležnosti kantona",
+      "Nadležnosti federalne vlasti i kantona",
+      "Isključive nadležnosti Federacije"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "7.Ustavni sud BiH sastoji se od:",
+    "a": [
+      "Deset",
+      "Devet",
+      "Sedam"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "8.Tko imenuje Vladu Federacije?",
+    "a": [
+      "Premijer predsjednik Vlade Federacije",
+      "Predsjednik Federacije uz saglasnost oba potpredsjednika Federacije nakon konzulacija sa Premijerom  predsjednikom Vlade Federacije ili kandidatom za tu dužnost",
+      "Parlament Federacije"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "9.Isplata penzija-mirovina stečenih na području Federacije BiH ostvaruje se putem:",
+    "a": [
+      "Federalnog zavoda za Pio MIO",
+      "Republickog fonda za PIO",
+      "Federalnog ministarstva rada"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "10.Upravne organizacije osnivaju se za obavljanje:",
+    "a": [
+      "Upravnih poslova",
+      "Stručnih i sa njima povezanih upravnih poslova",
+      "Upravnih i sa njima povezanih stručnih poslova"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "11.Rješenje kojim odbija zahtjev za pristup informaciji,nadležni javni organ dužan je dostaviti podnositelju zahtjeva:",
+    "a": [
+      "Najkasnije u roku od osama dana od dana donošenja rješenja",
+      "Najkasnije u roku od 15 dana od dana prijema zahtjeva",
+      "U roku od 30 dana od dana prijema zahtjeva"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "12.Republički zavod za statistiku je:",
+    "a": [
+      "Samostalna republička upravna organizacija",
+      "Samostalna republička uprava",
+      "Upravna organizacija u sastavu Ministarstva financija"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "13.Poslovi upravnog nadzora nad radom pravosudne uprave i federalnih organa uprave u nadležnosti su:",
+    "a": [
+      "Federalnog ministarstva pravde",
+      "Zavoda za javnu upravu",
+      "Federalnog ministarstva unutrašnjih poslova"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "14.Državni službenik FBiH koji je razriješen dužnosti zbog prekobrojnosti ima prednost prilikom ponovnog zaposlenja u  državnoj službi FBiH ako se oglasi upražnjeno slično radno mjesto,u roku od:",
+    "a": [
+      "U roku od šest mjeseci od dana razrješenja s dužnosti",
+      "U roku od godinu dana od dana razrješenja s dužnosti",
+      "U roku od dvije godine od dana razrješenja s dužnosti"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "15.Sindikat se u skladu sa Zakonom o radu u institucijama BiH može osnovati:",
+    "a": [
+      "Uz saglasnost nadležne Vlade",
+      "Uz odobrenje poslodavca",
+      "Bez ikakvog prethodnog odobrenja"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "16.U skladu sa Zakonom o državnoj službi u institucijama BiH,ADS BiH može poništiti javni oglas na obrazloženi zahtjev  najkasnije do:",
+    "a": [
+      "Održavanja javnog ispita",
+      "Postavljenja kandidata sa liste uspješnih",
+      "Dostavljanja rezultata izbornog procesa,odnosno liste uspješnih kandidata Agenciji"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "17.Ako je neko pravo iz radnog odnosa različito uređeno Zakonom o radu FBiH kolektivnim ugovorom,,pravilnikom o  radu,ugovorom o radu primjenjuje se:",
+    "a": [
+      "Za radnika najpovoljnije pravo osim ako to Zakonom o radu FBih nije izričito zabranjeno",
+      "Za radnika najpovoljnije pravo",
+      "Pravo utvrđeno kolektivnim ugovorom"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "18.U skladu sa zakonom o radu FBiH probni rad ne može trajati duže od:",
+    "a": [
+      "Tri mjeseca",
+      "Šest mjeseci",
+      "Dvanaest mjeseci"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "19.U skladu sa zakonom o radu FBiH radnicima koji rade noću poslodavac je dužan osigurati periodične ljekarske  preglede najmanje:",
+    "a": [
+      "Svakih šest mjeseci",
+      "Jednom godišnje",
+      "Jednom u dvije godine"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "20.Građani koje zemlje EU su 23.juna 2016 godine glasovali za izlazak iz EU?",
+    "a": [
+      "Ujedinjeno Kraljevstvo",
+      "Norveška",
+      "Danska"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "21.Britansko-njemačka inicijativa za BiH,kojom su izabrani predstavnici vlasti u BiH pozvani da se pisanom izjavom  obvežu na provedbu institucionalnih reformi na svim razinama te da u saradnji EU izrade opsežan plan reformi kojim će  BiH napredovati u procesu integriranja,predstavljena je:",
+    "a": [
+      "2013 godine",
+      "2014 godine",
+      "2015 godine"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "22.U preambuli Ustava BiH se ne spominje:",
+    "a": [
+      "Evropska konvecija za zaštitu ljudskih prava i sloboda",
+      "Međunarodni pakt o ekonomskim,socijalnim i kulturnim pravima",
+      "Deklaracija o pravima lica koja pripadaju nacionalnim ili etničkim,vjerskim i jezičkim manjinama 23.Glavni grad RS po Ustavu je:",
+      "Banja Luka",
+      "Sarajevo",
+      "Doboj"
+    ],
+    "correct": 4
+  },
+  {
+    "q": "24.Prema Ustavu BIH,sastavni dio pravnog poretka BIH sastavni dio pravnog poretka BiH i enttieta su:",
+    "a": [
+      "načela Univerzalne deklaracije o ljudskim pravima",
+      "načela Statuta Međunarodnog tribunala za bivšu Jugoslaviju",
+      "opšta načela međunarodnog prava"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "25.Vrhovni sud Federacije:",
+    "a": [
+      "Ima izvorne nadležnosti jer je samo najviši žalbeni sud Federacije",
+      "Ima i izvorne nadležnosti pobrojane u Ustavu",
+      "Ima i izvorne nadležnosti utvrđene federalnim zakonima"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "26.Predsjednik Federacije ima:",
+    "a": [
+      "dva potpredsjednika iz različitih konstituvnih naroda"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "27.Prema izbornom zakonu BiH državni službenici:",
+    "a": [
+      "Mogu se kandidovati za javnu izbornu dužnost samo ako prethodno podnesu ostavku na taj položaj ili postupe u  skladu sa zakonima koji regulišu njihov status",
+      "Ne mogu se kandidovati",
+      "Mogu se bez ograničenja kandidovati"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "28.Nadzor nad radom Republičke uprave za inspekcijske poslove vrši:",
+    "a": [
+      "Vlada Rs",
+      "Narodna skupština RS",
+      "Ministarstvo pravde"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "29.Članove Vlade RS bira:",
+    "a": [
+      "Predsjednik Rs",
+      "Narodna skupština RS,poslije svakog konstituiranja,na prijedlog kandidata za predsjednika Vlade",
+      "Narodna skupština RS na prijedlog predsjednika i podpredsjednika"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "30.Kojom većinom Vlada Brčko Distrikta odlučuje o godišnjem proračunu budzeta?",
+    "a": [
+      "Natpolovićnom večinom prisutnih sjednici",
+      "Dvotrećinskom većinom",
+      "Tropetinskom većinom glasova od ukupnog broja članova Vlade"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "31.Sredstva za rad organa uprave i upravnih organizacija u F BiH utvrđuje se:",
+    "a": [
+      "Budzetom Federacije BiH za federalne organe uprave i upravne organizacije",
+      "Budzetom Federacije Bih za federalne i kantonalne organe uprave",
+      "Budzetom Federacije BiH za federalne,kantonalne i općinske organe uprave"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "32.Republički sekreterijat za zakonodavstvo je:",
+    "a": [
+      "Uprava u sastavu Ministarstva pravde",
+      "Samostalna republička upravna organizacija",
+      "Samostalna stručna služba Vlade Rs"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "33.Sekretar Vlade FBiH za svoj rad odgovara:",
+    "a": [
+      "Vladi F BiH i Premijeru Predsjedniku Vlade FBiH",
+      "Vladi Federacije BiH,Premijeru,Predsjedniku Vlade FBiH i zamjenicima Premijera Predsjednika Vlade FBih",
+      "Premijeru Predsjedniku Vlade FBiH"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "34.Uredbu o uvjetima,načinu i programu za polaganje ispita općeg znanja i stručnog ispita za kandidate za državnu službuu Federaciji BiH donosi:",
+    "a": [
+      "Vlada FBih",
+      "Parlament Federacije",
+      "Parlament FBIH na prijedlog ADS FBiH"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "35.U skladu sa Zakonom o državnoj službi FBiH u rukovođenju organima državne službe rukovodiocu organa državne  slućbe FBiH pomažu:",
+    "a": [
+      "Sekretar organa državne službe,pomoćnik rukovodioca organa državne službe,savjetnik i šef kabineta",
+      "Sekretar organa državne službe,pomoćnik rukovodioca,savjetnik",
+      "Sekretar,pomocnik i sef kabineta"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "36.Prema Zakonu o radu RS,puno radno vrijeme radnika mlađeg od 18 godina ne može da se utvrdi u trajanju dužem od:",
+    "a": [
+      "40 sati sedmično",
+      "35 sati sedmično",
+      "30 sati sedmično"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "37.Članove Disciplinske komisije u skladu sa Zakonom o državnoj službi FBiH imenuje:",
+    "a": [
+      "ADS FBiH",
+      "Rukovodilac organa državne sluzbe",
+      "Sindikat"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "38.Unapređenje državnog službenika Zakon o državnoj sluzbi FBiH se vrši putem:",
+    "a": [
+      "Javnog oglasa koji traje najmanje sedam dana",
+      "Internog oglasa koji traje najmanje deset dana",
+      "Internog oglasa koji traje najmanje sedam dana od dana objavljivanja na oglasnoj tabli organa državne sluzbe"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "39.U skladu sa Zakonom o radu FBiH,naknadu plate u visini od 100 posto prosjecne plate koju je radnik ostvario u  odgovarajućem prethodnom periodu ili od plate koju bi ostvario da je bio na radu,ima radnik za vrijeme:",
+    "a": [
+      "Koriscenja godisnjeg odmora i državnog praznika",
+      "Koriscenje godisnjeg odmora,drzavnog praznika i privremene spriječenosti za rad zbog povrede na radu ili  profesionalne bolesti",
+      "Privremene sprijecenosti za rad zbog povrede na radu"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "40.Ko bira medijatore državne službe prema Zakonu o državnoj službi FBiH?",
+    "a": [
+      "Svi državni službenici i namještenici organa državne uprave u saradnji sa sindikatom",
+      "Svi državni službenici organa državne uprave u saradnji sa sindikatom",
+      "Svi državni sluzbenici i namjestenici u saradnji sa rukovodiocem"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "41.U skladu za Zakonom o državnoj sluzbi FBiH,interni oglas za unapredenje državnog sluzbenika objavljuje se:",
+    "a": [
+      "Na sluzbenoj stranici Agencije",
+      "U najmanje dva lista koja se distribuiraju na cijeloj teritoriji BiH",
+      "Na oglasnoj tabli organa državne sluzbe u kojem se vrši unapređenje"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "42.Zahtjev za vanredno preispitivanje sudske odluke podnosi se:",
+    "a": [
+      "Vrhovnom sudu Federacije",
+      "Kantonalnom sudu",
+      "Vrhovnom sudu Federacije ili kantonalnom sudu"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "43.Pojedina pitanja postupka za određenu upravnu oblast:",
+    "a": [
+      "Mogu se samo izuzetno urediti posebnim zakonom",
+      "Ne mogu se uređivati zakonom",
+      "Mogu se izuzetno urediti i podzakonskim aktom"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "44.U stvarima o kojima neposredno na osnovu ustavnih ovlaštenja odlučuju PS BIH ili Predsjedništvo BiH,upravni spor:",
+    "a": [
+      "Može voditi",
+      "Ne može voditi",
+      "Može voditi samo u određenim slučajevima"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "45.Oglašavanje rješenja ništavnim:",
+    "a": [
+      "Onemogućava se dalje proizvođenje pravnih posljedica rješenja koje je oglašeno niptavim",
+      "Ne poništavaju se pravne posljedice koje je rješenje već proizvelo od dana oglašavanja ništavim",
+      "Poništavaju se pravne posljedice koje je rješenje već proizvelo od dana oglašavanja ništavim"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "46.Prema odredbama Zakona o upravnom postupku Brcko Distrikta BiH o žalbi protiv rješenja i drugih pojedinačnih  upravnih akata koje u prvom stepenu donose organi uprave i instutcije s javnim ovlastenjima rješava:",
+    "a": [
+      "Vlada Distrikta",
+      "Apelaciona komisija",
+      "Gradonačelnik"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "47.Protiv kojeg rješenja donesenog u upravnom postupku može izjaviti žalba?",
+    "a": [
+      "Protiv svakog rješenja bez izuzetka koje je doneseno od nadležnog organa",
+      "Samo protiv drugostepenog rješenja",
+      "U pravilu,protiv rješenja donesenog u prvom stepenu"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "48.Primljeni akti u organima uprave RS razvrstavaju se na:",
+    "a": [
+      "Akte predmeta upravnog postupka i akte povjerljive pošte",
+      "Akte predmeta upravnog postupka i ostale akte akte predmeta neupravnog postupka",
+      "Akte predmeta upravnog postupka i postupaka po zahtjevu stranke"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "49.Brojčane oznake za obilježavanje organizacionih jedinica odnosno radnih mjesta ako nema organizacionih  jedinica,počinju s brojem:",
+    "a": [
+      "Od 01 pa nadalje",
+      "Od 1 pa nadalje",
+      "Od 001 pa nadalje"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "50.Ko otvara pošiljke koja se odnosi na raspisane licitacije,natječaje i slično?",
+    "a": [
+      "Komisija formirana za te poslove ako nije drukcije odredeno",
+      "Sef pisarnice",
+      "Sluzbenik koji ovlasti rukovodilac"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "51.Termin fasickl predstavlja:",
+    "a": [
+      "Fascikl opredstavlja omot,sanduk.kutiju i slično u kojim je slozeno vise predmeta ili vise dosijea koji se poslije zavrsenog  postupka cuvaju u tim fasicklima"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "52.Članove Europskog vijeća čine:",
+    "a": [
+      "Predsjednici država ili predsjednici vlada država članica,predsjednik Europskog vijeća i predsjednik Europske  komisije",
+      "Ministri vanjskih poslova država članica",
+      "Predsjednici država i vlada"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "53.Najveći program za istraživanje i inovacije koji je pokrenut u EU,a koji je u razdoblju od 2014-2020 raspolagao sa  skoro 80 milijardi eura za podršku pametnom,odrzivom i ukljucivom ekonomskom rastu,zove se?",
+    "a": [
+      "Erasmus +",
+      "Horizon 2020",
+      "Eureka"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "54.Sud Evropske unije broji:",
+    "a": [
+      "12 sudaca iz najstarijih zemalja članica",
+      "6 sudaca iz zemalja osnivaca",
+      "Broj je uskladen sa brojem drzava clanica"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "55.Instrument predpristupne pomoci IPA predstavlja:",
+    "a": [
+      "Sredstvo putem kojeg EU podrzava reforme u zemljama prosirenja kroz financijsku i tehnicku pomoc",
+      "Sredstvo putem kojeg EU podrzava reforme zemljama kandidatima kroz finansijku i tehnicku pomoc",
+      "Sredstvo putem kojeg EU podrzava zemlje Zapadnog balkana za ulazak u EU"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "56.Peto prosirenje bilo je najvece prosirenje EU,kada je najprije pristupilo deset novih članica,zatim jos dvije nove  clanice,trajalo je:",
+    "a": [
+      "Od 2004 do 2007",
+      "Od 2007 do 2013",
+      "Odod 2010 do 2013"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "57.U zakonu o opstem upravnom postupku RS propisano je da sukob nadleznosti izmedu republickih organa rjesava:",
+    "a": [
+      "Skupština RS",
+      "Vlada Rs",
+      "Ustavni sud RS"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "58.Upravne organizacije mogu se osnivati u opcinama koji imaju najmanje:",
+    "a": [
+      "30 000 stanovnika",
+      "25 000",
+      "50 000 stanovnika"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "59.Organe uprave iz nadležnosti BIH osniva:",
+    "a": [
+      "Predsjednistvo BiH",
+      "Vijece ministara na prijedlog Predsjednistva",
+      "Parlamentarna skupština BiH na prijedlog Vijeca ministara BiH"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "60.Poslodavac je duzan radniku uz pisani dokaz dostaviti fotokopije prijave na obavezno osiguranje kao i svake promjeneosiguranja koja se tice radnika u skladu za zakonom o radu FBiH:",
+    "a": [
+      "U roku od 90 dana",
+      "U roku od mjesec dana od dana zakljucenja ugovora",
+      "Odmah na pocetku rada"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "61.Zakonodavnu vlast u RS vrši:",
+    "a": [
+      "Narodna skupština i Ustavni sud",
+      "Narodna skupština i Vijece naroda",
+      "Predsjednik Republike"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "62.Dom naroda PS BiH se moze raspustiti:",
+    "a": [
+      "U slucaju da se dom ne sastaje duze od sest mjeseci",
+      "Odlukom Predsjednistva BiH ili od strane samog Doma pod uslovom utvrdenim Ustavom BiH",
+      "Ako Dom naroda ne usvoji Budzet"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "64.Po Ustavu BiH ce preuzeti dodatne nadleznosti izmedu ostalog i u onim stvarima:",
+    "a": [
+      "Koje su predvidene u aneksima 5-8 Opšteg okvirnog sporazuma",
+      "1-3",
+      "9 i 10"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "65.Ustavni sud BiH je jedini nadležan da odluci o bilo kojem sporu koji se javlja po Ustavu BiH:",
+    "a": [
+      "Između dva entiteta",
+      "Izmedu dva entiteta ili izmedu BiH ili jednog ili oba entiteta i institucija BiH",
+      "U slucajevima spora izmedu institucija BiH i medunarodne zajednice"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "66.Vladu Federacije čine:",
+    "a": [
+      "Premiejr predsjednik Vlade,federalni ministri i tajnik Vlade Federacije",
+      "Premijer predsjednik Vlade Federacije i federalni ministri",
+      "Premijer,predsjednik,tajnik,savjetnici i federalni ministri"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "67.Republika uprava za inspekcijske poslove je:",
+    "a": [
+      "Samostalna republicka upravna organizacija",
+      "Samostalna republicka uprava",
+      "Uprava u sastavu Minsitarstva pravde"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "68.Samostalne federalne uprave su:",
+    "a": [
+      "Federalna uprava civilne zastite,Federalna uprava za geodetske i imovinsko pravne poslove,Arhiv Federacije",
+      "Federalna uprava civilne zastite,Federalna uprava za geodetske i imovinsko pravne poslove i Federalna uprava zainspekcijske poslove",
+      "Federalna direkcija robnih rezervi,Arhiv"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "70.Osiguranik u FBiH stice pravo na starosnu penziju kad navrsi:",
+    "a": [
+      "65 godina zivota i najmanje 20 godina penzijskog staza ili kada navrsi 40 godina penzijskog staza bez obzira na  godine zivota",
+      "60 godina i najmanje 35 godina penzijskog",
+      "65 godina zivota i 35 godina penzijskog staza"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "71.U skladu sa Zakonom o radu u institucijama BiH za vrijeme trudnoce,porodaja,njege djeteta,zena ima pravo na  porodajno odsustvo u trajanju od:",
+    "a": [
+      "Sest mjeseci neprekidno",
+      "12 mjeseci neprekidno",
+      "16 mjeseci neprekidno"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "72.Ukoliko poslodavac ne zakljuci ugovor o radu na neodredeno vrijeme sa zaposlenikom u pismenoj formi u kojem  roku je duzan zaposleniku uruciti pismenu izjavu koja sadrzi podatke iz zakona,kolektivnog ugovora ili pravilnika o  radu:",
+    "a": [
+      "U roku od jednog mjeseca od dana kada zaposlenik otpocne da radi kod poslodavca",
+      "U roku od dva mjeseca",
+      "Do kraja kalendarske godine u kojoj je otpoceo da radi kod poslodavca"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "73.Prema Zakonu o Agenciji za prevenciju korupcije i koordinaciju borbe protiv korupcije BiH,direktora Agencije imenuju:",
+    "a": [
+      "Vijece ministara BiH na prijedlog komisije za izbor i pracenje rada Agencije",
+      "Ministar sigurnosti",
+      "Parlamentarna skupštinaBiH na prijedlog Komisije za izbor i pracenje rada Agencije"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "74.Državni sluzbenik koji je razrijesen duznosti moze podnijeti zalbu Zakon o drzavnoj sluzbi FBiH:",
+    "a": [
+      "Odboru za zalbe FBiH u roku od 30 dana",
+      "Odboru za zalbe FBiH u roku od 15 dana od dana prijema odluke o razrjesenju",
+      "Vladi FBiH u roku od 15 dana"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "75.Protiv rjesenja domova Parlamenta Federacije i zakonodavnog organa gradskog u prvom stepenu:",
+    "a": [
+      "Odlucuje Vlada FBiH",
+      "Olducuju komisije",
+      "Ne moze se izjaviti zalba"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "76.Ako nadlezni organ za vrijeme sudskog postupka donese drugi upravni akt kojim se mijenja ili stavlja van snage  upravni akt protiv kog je pokrenut upravni spor pokrenut sud ce:",
+    "a": [
+      "Obustaviti postupak cim sazna da je takav akt donesen",
+      "Odbaciti tuzbu",
+      "Obustaviti postupak ako tuzitelj izjavi da je zadovoljan novim aktom ili se ne izjasni u roku koji odredi sud"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "77.Prema Zakonu o upravnom postupku F BiH drugostepeno rjesenje kojim je izmijenjeno prvostepeno rjesenje postaje  izvršno:",
+    "a": [
+      "Ako se protiv tog rjesenje ne moze pokrenuti upravni spor",
+      "U roku od 15 dana od dana donosenja",
+      "Kada se dostavi stranci"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "78.Novacne kazne izrecene u postupku izvršenja naplacuju se:",
+    "a": [
+      "U korist Federacije,kantona,opcine gradova ovisno ciji je organ izrekao kaznu",
+      "U korist organa koji provodi izvrsenje",
+      "U korist stranke koja predlaze izvrsenje"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "79.Pravo na zalbu na prvostepeno rjesenje federalnih organa uprave i federalnih ustanova ureduje se:",
+    "a": [
+      "Federalnim zakonom kojim se odreduje nadleznost federalnog organa",
+      "Federalnim zakonom iz odgovarajuce upravne oblasti",
+      "Propisom o unutrasnjoj organizaciji uprave"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "80.Punomoc za zastupanje u upravnom postupku prema Zakonu o upravnom postupku F BiH se moze dati?",
+    "a": [
+      "Samo pismeno i to zakonskom zastupniku",
+      "Pismeno ili usmeno u zapisnik koji sacinjava sluzbena osoba koja vodi postupak",
+      "Samo adokatu ili licu kojeg on odredi"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "81.Da li se na primljene racune stavlja otisak prijemnog stambilja?",
+    "a": [
+      "Da,stavlja se",
+      "Ne,ne stavlja se",
+      "Samo po nalogu sefa"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "82.Predmeti i akti stavljeni u arhivu izdaju se iz arhiva samo uz:",
+    "a": [
+      "Uz revers",
+      "Bez reversa",
+      "Potvrdu",
+      "Rjesenje"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "83.Posta koja se oprema preko psotanske sluzbe razvrstava se:",
+    "a": [
+      "U obicne i povjerljive posiljke",
+      "U obicne i preporucene posiljke",
+      "Obicne i avionske"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "85.IPA kao EU instrument predpristupne pomoci podijeljena je na nekoliko komponenti koje se odnose na potencijalne  kandidate i na zemlje kandidate o kojem broju komponenti je riječ:",
+    "a": [
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "86.Ko bira zastupnike u Evropskom parlamentu?",
+    "a": [
+      "Vlade drzava clanica",
+      "Građani",
+      "Građani i vlade"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "87.Kapacitet javnih institucija dovoljan za ostvarenje politickih,ekonomskih i pravnih kriterija koje drzava mora ispuniti  za clanstvo u EU?",
+    "a": [
+      "Madridski kriterij",
+      "Kopenhagenski kriterij",
+      "Schengenski kriterij"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "88.Ako organ primi nerazumljiv podnesak na koji nacin ce postupiti?",
+    "a": [
+      "Odredit ce podnositelju rok u kojem je duzan podnesak uciniti razumljivim",
+      "Uopce nece postupati po tom podnesku",
+      "Odbacit ce takav podnesak bez odlaganja"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "89.Rukovodilac organa uprave u FBiH moze ovlastiti odredenog sluzbenika da moze vrsiti otvaranje i pregledanje poste.ocemu donosi:",
+    "a": [
+      "Posebno rjesenje",
+      "Instrukciju",
+      "Naredbu"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "90.Građani koje države su na dva referenduma 1972 i 1994 glasovali protiv clanstva u U EU iako je njihova drzava od  1973 dio Europskog gospodarskog prostora?",
+    "a": [
+      "Farskih otoka",
+      "Svicarske",
+      "Norveske"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "91.Način rada,odlucivanja i druga pitanja od znacaja za rad Vlade Brcko Distrikta BiH,osim zakonom uređuje:",
+    "a": [
+      "Uredbom",
+      "Pravilnikom",
+      "Poslovnikom o radu Vlade"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "92.Koliko inspektor,koji vrši poslove inspekcijskog nadzora,koji su organizirani u okviru mjerodavnosti organa  uprave,mora imati radnog staza?",
+    "a": [
+      "Namjanje 2 godine",
+      "Najmanje tri godine nakon zavrsene skolske spreme",
+      "Najmanje 5 godina ukupno"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "93.Prema izbornom zakonu BIH članove Centralne izborne komisije imenuje:",
+    "a": [
+      "Predstavnicki dom Parlamentarne skupstine Bih",
+      "Oba doma PS BiH",
+      "Predsjednistvo"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "94.Organi uprave BiH obavezni su Ombusmanu za ljudska prava BiH na njegov zahtjev omoguciti:",
+    "a": [
+      "Da nesmetano ispita njihovu djelatnost,odnosno rad državnih sluzbenika u organu uprave",
+      "Da izvrsi inspekcijski nadzor",
+      "Samo da ispita rad drzavnih sluzbenika"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "95.Koja institucija Evropske unije predstavlja europske gradove i regije?",
+    "a": [
+      "Komisija za drzavljanstvo regija",
+      "Evropski regionalni i socijalni odbro",
+      "Odbor regija"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "96.Do kada Vlada Federacije moze povuci prijedlog zakona kojeg je podnijela Parlamentu Federacije?",
+    "a": [
+      "Samo do otvaranja pretresa u domovima Parlamenta Federacije",
+      "Do ramzatranja prijedloga u pojedinostima",
+      "U svako doba,ako tak odluci premijer"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "97.Prema zakonu o radu RS,najnizu platu radnika utvrduje Vlada RS:",
+    "a": [
+      "Na prijedlog Ministarstva rada i socijalne politike Rs",
+      "Na prijedlog ekonomskog socijalnog savjeta RS",
+      "Na prijedlog Sindikata"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "99.O zahtjevu za zastitu sloboda i prava pojedinca zajamcenih Ustavom Federacije sud odlucuje:",
+    "a": [
+      "Rjesenjem",
+      "Odlukom",
+      "Presudom"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "100.Ko vrši signiranje poste u FBiH?",
+    "a": [
+      "Sef pisarnice",
+      "Rukovodilac organa uprave odnosno sluzbenik ovlasten za otvaranje i pregledanje poste",
+      "Sluzbenik koji vodi protokol"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "101.Upravne sporove sukladno Zakonu o upravnim sporovima RS rjesava:",
+    "a": [
+      "Vrhovni sud RS",
+      "Okruzni sud",
+      "Okruzni sud ili Vrhovni sud Rs"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "102.Sluzbena pisma EU su:",
+    "a": [
+      "latinica i cirilica",
+      "latinica,bugarska cirilica i grcki alfabet",
+      "latinica i grcki alfabet"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "103.Nijedna osoba ne moze biti lisena drzavljanstva BiH ili drzavljanstva entiteta:",
+    "a": [
+      "Arbitrarno,po bilo kojem diskriminacijskom osnovu ili na drugi nacin",
+      "Osim pod uvjetima utvrdenim zakonom",
+      "Osim pravosnaznom presudom za teska krivicna djela"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "104.Organ uprave i sluzbe za upravu u F BiH u okviru kancelarijskog poslovanja vode:",
+    "a": [
+      "Osnovne knjige evidencija o predmetima i aktima iz svoje nadleznosti",
+      "Osnovne i pomocne knjige evidencija o predmetima i aktima iz svoje nadleznosti",
+      "Pomocne knjige evidencija"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "105.Program za podrsku obrazovanju,osposobljavanju mladima i sportu kojim je objedinjeno sedam prethhodnih  programa EU u podrucju obrazovanja zove se:",
+    "a": [
+      "Erasmus +",
+      "Eurodesk",
+      "Youthpas"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "106.Prema zakonu o upravnom postupku Federacije BiH,administrativno izvršenje.u pravilu provodi organ uprave: a) koji je u stvari rjesavao u drugom stepenu",
+    "a": [
+      "koji je u stvari rjesavao u prvom stepenu",
+      "koji je donio izvrsno rjesenje"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "107.Koliko ima ministarstava u RS?",
+    "a": [
+      "16",
+      "18",
+      "12"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "108.Poslove uprave iz nadleznosti BiH obavljaju:",
+    "a": [
+      "Ministarstva,upravne organizacije(samostalne i u sastavu ministarstva) i druge institucije BiH osnovane  posebnim zakonom ili kojima je posebnim zakonom povjereno obavljanje poslova uprave",
+      "Ministarstva i samostalne uprave BiH",
+      "Minsitarstva,uprave i upravne organizacije"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "109.Sta se smatra nocnim radom u skladu sa zakonom o radu RS?",
+    "a": [
+      "Rad između 22.00 casa i 06.00 casova narednog dana",
+      "Izmedu 23 i 07.00",
+      "Izmedu 22.00 i 5 casa narednog dana"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "110.ukoliko se dokazivanje u upravnom postupku provodi vještačenjem:",
+    "a": [
+      "Vjestak nije duzan poloziti zakletvu",
+      "Vjestak je duzan poloziti zakletvu ukoliko trazi sluzbena osoba ili stranka",
+      "Vjestak je duzan poloziti zakletvu"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "111.Prema Ustavu BiH,Vijece ministara cini:",
+    "a": [
+      "Predsjedavajuci i ministri",
+      "Predsjedavajuci,ministri i zamjenici",
+      "Predsjedavajuci,zamjenik Predsjedavajuceg,ministri i zamjenici ministara"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "112.Prema Zakonu o radu Federacije BiH maloljetni radnik ima pravo na godisnji odmor:",
+    "a": [
+      "Najmanje 20 radnih dana",
+      "Najmanje 24 radna dana",
+      "Najmanje 18 radnih dana"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "113.Osiguraniku sa stazom osiguranja sa uvecanim trajanjem u Rs racuna se svakih 12 mjeseci kao:",
+    "a": [
+      "15 mjeseci staza osiguranja",
+      "16 mjeseci",
+      "18 mjeseci"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "115.Prije donosenja rjesenja,stranci ce se dati mogucnost da se izjasni o cinjenicama iokolnostima:",
+    "a": [
+      "Uvijek osim kad je zakonom dopusteno donijeti rjesenje bez ucesca stranke",
+      "Ako to zahtjeva strnaka",
+      "Ako to ovlastena sluzbena osoba smatra da je to potrebno"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "116.Ustavom BiH je predviđeno da ce BiH preuzeti nadleznost:",
+    "a": [
+      "U onim stvarima o kojima se postigne saglasnost entiteta",
+      "U skladu sa ustavima entiteta,kantona",
+      "U skladu sa ustavom BiH i ustavima entiteta"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "117.Prema zakonu o upravnom postupku Federacije BiH troskove postupka u vezi i izvrsenjem snosi,u pravilu:",
+    "a": [
+      "Izvrsenik",
+      "Stranka po cijem je prijedlogu izvrsenje provedeno",
+      "Organ uprave koji je vodio postupak"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "118.Sudije Vrhovnog suda Federacije imenuje:",
+    "a": [
+      "Predlaze predsjednik Federacije uz saglasnost oba oba podpredsjednika",
+      "Bira Parlament Federacije na prijedlog komisije za sudska imenovanja",
+      "Visoko sudsko i tuzilacko vijece"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "119.Poslove drzavne uprave na opstine u Republici Srpskoj mogu se prenijeti:",
+    "a": [
+      "Zakonom",
+      "Zakonom i uredbom",
+      "Uredbom"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "120.Koliko traje pripravnistvo u organu drzavne uprave za VSS u FBiH?",
+    "a": [
+      "12 mjeseci",
+      "6 mjeseci",
+      "9 mjeseci"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "121.Zakon o drzavnoj sluzbi u instiucijama BiH,sekretari domova Parlamentarne skupštine:",
+    "a": [
+      "Nisu drzavni sluzbenici",
+      "Imaju status rukovodecih",
+      "Imaju status rukovodecih na mandate"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "122.Zamjenici ministara u Vijecu ministara BiH u odnosu na ministru su:",
+    "a": [
+      "Iz reda istog konstitutivnog naroda",
+      "Iz razlicitih konstitutivnih naroda",
+      "Iz reda ostalih"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "123.Ko u organima uprave za sluzbu otvara povjerljivu i strogo povjerljivu postu primljenu van radnog vremena i u dane  kada se neradi?",
+    "a": [
+      "Dezurni sluzbenik ako u organu uprave odnosno sluzbe za upravu postoji dezurna sluzba",
+      "Dezurni sluzbenik ako u organu uprave odnosno sluzbe za upravu postoji dezurna sluzba i to samo ako je za to  posebno pismeno ovlasten",
+      "Sef pisarnice"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "124.Ministre u Vijecu ministara imenuje:",
+    "a": [
+      "Predjsednistvo BiH na prijedlog politickih stranaka",
+      "Predsjedavajuci Vijeca ministara BiH",
+      "PS BiH"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "125.Kada je postupak koji je pokrenut po sluzbenoj duznosti okoncan povoljno za stranku,troskove postupka snosi?",
+    "a": [
+      "Organi koji je pokrenuo postupak",
+      "Svako snosi svoje troskove",
+      "Stranka"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "126.Kojoj instituciji Europske unije zemlja kandidatkinja podnosi zahtjev za clanstvo?",
+    "a": [
+      "Vijecu Europske unije",
+      "Evropskom vijecu",
+      "Evropskoj komisiji"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "127.Vitalni nacionalni interes konstitutivnih naroda:",
+    "a": [
+      "Definiran je u Ustavu Federacije BiH",
+      "Utvrduje se po svojoj procjeni Dom Naroda",
+      "Utvrden je Odlukom ustavnog suda"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "128.Sluzbeni jezici Evropske unije su sluzbeni jezici drzava clanica:",
+    "a": [
+      "24 sluzbena jezika",
+      "27 jezika",
+      "12 jezika"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "129.Ko donosi rjesenje o odredivanju organizacionih jedinica kojim se posta dostavlja u rad:",
+    "a": [
+      "Rukovodilac organa uprave",
+      "Sef pisarnice",
+      "Sekretar organa uprave"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "130.Kvorum za rad Doma naroda PS BiH čini:",
+    "a": [
+      "9 delegata",
+      "15 delegata",
+      "Vecina od ukupnog broja"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "131.Otkazni rok u skladu sa zakonom o radu F BiH ne moze biti:",
+    "a": [
+      "Kraci od sedam dana u slucaju da radnik otkazuje ugovor o radu ni kraci od 14 dana u slucaju da poslodavac  otkazuje ugovor o radu",
+      "Kraci od sedam dana kada otkaz daje radnik ni kraci od 15 dana od strane poslodavca",
+      "Kraci od deset dana od strane radnika ni kraci od 14 dana od strane poslodavca"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "132.Po Ustavu BiH entitetima nije dozvoljeno:",
+    "a": [
+      "Provodenje bilo kakve kontrole na granici izmedu entiteta",
+      "Drzanje oruzanih snaga",
+      "Sklapanje bilo kakvih sporazuma medunarodnog karaktera"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "133.Na osnovu Zakona o drzavnoj sluzbi drzavni sluzbnik koji je preventivno suspendovan,za vrijeme trajanja suspenzije  prima platu u iznosu:",
+    "a": [
+      "Dvije trecine svoje plate",
+      "Puni iznos plate",
+      "80 posto od prosjecne plate"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "134.Institucionalne ravnoteza je princip na osnovu kojeg su uredeni odnosi medu insittucijama EU,koji podrazumijevaju  da institucije EU djeluju iskljucivo u okviru ovlasti koje su im date ugovorima.Koja institucija je nadlezna za postivanje  ovog principa?",
+    "a": [
+      "Sud Evropske unije",
+      "Evropska komisija",
+      "Vijece EU"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "135.Plata radnika RS prema Zakonu o radu RS uvecava se za svaku godinu staza:",
+    "a": [
+      "0,60",
+      "0,50",
+      "0,30"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "136.Kojim aktom starjesina organa uprave u RS ovlascuje radnika koji je neposredno odgovoran za vodenje  kancelarijskog poslovanja?",
+    "a": [
+      "Rjesenjem",
+      "Odlukom",
+      "Uputstvom"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "137.Za procesno nesposobnu fizicku osobu radnje u postupku obavlja?",
+    "a": [
+      "Radnje moze obavljati i sama osoba",
+      "Zakonski zastupnik",
+      "Punomocnik"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "138.U zakonu o opstem upravnom postupku RS protiv rjesenja Vlade Rs:",
+    "a": [
+      "Moze izjaviti zalba samo ako to odobri predsjednik RS",
+      "Moze izjaviti zalba",
+      "Ne moze izjaviti zalba"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "139.U izvršavanju svojih nadleznosti,gradonacelnik u smislu Zakona o Vladi Brcko distrikta BiH,ne donosi sljedece akte:",
+    "a": [
+      "Zakone",
+      "Odluke i pravilnike",
+      "Odluke,organizacioni plan,instrukcije"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "140.U skaldu sa zakonom drzavnim sluzbenicima Rs,prekovremeni rad moze trajati najvise:",
+    "a": [
+      "10 sati sedmicno odnosno 180 sati godisnje",
+      "10 sati odnosno 150 sati godisnje",
+      "15 sati sedmicno"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "141.Da li je uvjerenje koje izdaje nadlezni organ uprave upravni akt?",
+    "a": [
+      "Nije",
+      "Da",
+      "Da ukoliko je izdato na osnovu sluzbene evidencije"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "142.Izvršenje radi ispunjenja novcanih potrazivnaja u pravilu se provodi:",
+    "a": [
+      "Sudskim putem",
+      "Adminsitrativnim putem a provodi ga organ uprave",
+      "Izvršenjem putem drugih osoba"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "143.Tko rukuje predmetima stavljenim u arhivu u organima drzavne sluzbe F BiH'",
+    "a": [
+      "Sef pisarnice",
+      "Ovlasteni zaposlenik pisarnice",
+      "Sluzbenik koji je stavio predmet u arhivu"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "144.Sukob nadleznosti u upravnom postupku izmedu organa uprave dva ili vise kantona u F BiH rjesava?",
+    "a": [
+      "Medukantonalno vijece",
+      "Vrhovni sud Federacije",
+      "Vlada F BiH"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "145.Vijeće ministara BiH ce podnijeti ostavku ukoliko mu:",
+    "a": [
+      "Parlamentarna skupština BiH izglasa nepovjerenje",
+      "Predsjednistvo BiH",
+      "Predstavnicki dom PS"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "146.U osnovne knjige evidencije o predmetima i aktima organa uprave FBiH spada:",
+    "a": [
+      "Djelovodnik predmeta i akata",
+      "Interna dostavna knjiga",
+      "Abecedni imenik predmeta"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "148.U nadleznosti Vlade Federacije Bih za evropske integracije ne spada:",
+    "a": [
+      "Ocjenjivanje uskladenosti federalnih propisa sa zakonodavstom Evropske unije,evropskim principima i  standardima",
+      "Koordinacija programa pomoci EU",
+      "Koordinacija aktivnosti,nadzor i izvjestavanja o provedi Sporazuma o stabilizaciji i pridruzivanju 149.Sporazum o stabilizaciji i pridruzivanju izmedu BiH i EU potpisan je 16.6.2008,a stupio je na snagu:",
+      "2015 godine",
+      "2013 godine",
+      "2009 godine"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "150.Koja od sljedecih zemalja ima status kandidata za clanstvo u EU?",
+    "a": [
+      "Turska",
+      "Gruzija",
+      "Norveska"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "151.Koje rjesenje je pravomocno u upravnom postupku?",
+    "a": [
+      "Ono protiv kojeg se ne moze izjaviti žalba niti pokrenuti upravni spor."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "152.Amandmani na Ustav Federacije usvajaju se:",
+    "a": [
+      "U Domu naroda prostom vecinom,ukljucujuci vecinu bosnjackih,hrvatskih i srpskih delegata i u Predstavnickom  domu dvotrecinskom vecinom poslanika",
+      "Dvotrecinskom vecinom u oba doma Parlamenta Federacije",
+      "Dvotrecinskom vecinom na plenarnoj sjednici Parlamenta Federacije"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "153.Osnovna organizacijska jedinica ima:",
+    "a": [
+      "Najmanje tri izvrsioca s tim sto se u taj broj ne uracunava rukovodilac organizacijske jedinice",
+      "Najmanje tri izvriosca zajedno sa rukovodiocem koji se uracunava u taj broj izvrsilaca",
+      "Najmanje pet izvrsilaca"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "154.Javni organ u smislu Zakona o slobodi i pristupa informacijama u F BiH duzan je objaviti:",
+    "a": [
+      "Objaviti Vodic za pristup informacijama",
+      "Objaviti vodic za pristup informacijama i uz naknadu dostaviti podnosiocu zahtjeva za pristup informacijama",
+      "Objaviti pravilnik za pristup informacijama"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "155.ko vrsi rasporedivanje akata koji se obraduju u elektronskom obliku u organima uprave u Rs?",
+    "a": [
+      "Sef pisarnice",
+      "Radnik koji te akte evidentira u bazi podataka",
+      "Starjesina organa uprave"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "156.Clanovi Vijeca Europske unije su:",
+    "a": [
+      "Jedan ministar iz svake drzave clanice",
+      "Celnici drzava i vlada svake drzave clanice",
+      "Jedan sef drzave svake drzave clanice"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "157.EPSO ili Evropski ured za odabir zaposlenika vrsi jednu od sljedecih funkcija:",
+    "a": [
+      "Vrsi odabir osoblja unutar svih institucija EU",
+      "Vrsi odabir osoblja samo unutar Evropske komisije",
+      "Vrsi odabir osoblja unutar svih medunarodnih institucija"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "158.U osnovne knjige evidencija o predmetima i aktima organa uprave i sluzbi za upravu spada:",
+    "a": [
+      "Upisnik drugostepenih predmeta upravnog postupka",
+      "Personalni dosje",
+      "Fascikla predmeta"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "159.Povrat u predasnje stanje ne moze se traziti:",
+    "a": [
+      "Poslije isteka tri mjeseca od dana propustanja",
+      "Poslije isteka sest mjeseci od dana propustanja",
+      "Poslije isteka 30 dana od dana propustanja"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "160.Ugovorom iz Amsterdama,potpisanim 17.6.1997 u zakonodavstvo EU integrisan je:",
+    "a": [
+      "Schengenski sporazum",
+      "Ugovor iz Nice",
+      "Jedinstvenic europski akt"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "161.Ukoliko je stranka pogresno upucena da ne moze izjaviti zalbu rok za zalbu tece:",
+    "a": [
+      "Od dana dostavljanja rjesenja kojim je sud tuzbu odbacio kao nedopustenu",
+      "Od dana donosenje rjesenje kojim je sud tuzbu odbacio kao nedopustenu",
+      "Od dana dostavljanja prvostepenog rjesenje"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "162.Prema Ustavu BiH,entitet moze",
+    "a": [
+      "sklapati sporazume sa drzavama i medunarodnim organizacijama uz saglasnost  Parlamentarne skupstine koja moze zakonom predvidjeti da za odredene vrste sporazuma takva saglasnost nije  potrebna."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "163.Federalna uprava za zastitu od zracenja i radijacijsku sigurnost je:",
+    "a": [
+      "U sastavu Federalnog ministarstva zdravstva",
+      "U sastavu Federalnog ministarstva energije,rudarstva i industrije",
+      "Samostalna federalna uprava"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "164.Mjesna zajednica u smislu Zakona o principima lokalne samouprave u F BiH:",
+    "a": [
+      "Nema svojstvo pravnog lica",
+      "Ima svojstvo pravnog lica u okviru prava i duznosti utvrdenih statutom i odlukom o osnivanju C) Ima svojstvo pravnog lica u okviru prava i duznosti utvrdenih uredbom o osnivanju"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "165.Protiv Odluke Disciplinske komisije drzavni sluzbenik FBiH ima pravo izjaviti zalbu Odboru drzavne sluzbe za zalbe F  BiH radi preispitivanje odluke u roku od:",
+    "a": [
+      "30 dana od dana prijema odluke Disciplinske komisije",
+      "8 dana od dana prijema Odluke",
+      "15 dana od dana prijema odluke Disciplinske komisije"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "167.Tko potpisuje potvrdu o prijemu podneska stranke koja osobno predaje podnesak i zahtijeva izdavanje potvrde?",
+    "a": [
+      "Sluzbenik koji je podnesak primio uz stavljanje otiska pecata organa odnosno sluzbe",
+      "Rukovodilac organa sluzbe",
+      "Sef pisarnice"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "168. U vitalni nacionalni interes po Ustavu Federacije osim drugih pitanja koja jedan klub 2/3 vecinom proglasi za pitanjevitalnog nacionalnog interesa ne spada:",
+    "a": [
+      "Sistem javnog informisanja",
+      "Socijalna politika",
+      "Organizacija organa javne vlasti"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "168.Prvostepeni organ u upravnom postupku moze sam rijesiti zalbu?",
+    "a": [
+      "Ako nade da je zalba osnovana u cijelosti a nije potrebno provoditi novi ispitni postupak",
+      "Ako nema drugostepenog organa",
+      "Ako se radi o jednostavnijem postupku,a u cilju smanjenja troskova uz saglanost suprotne strane"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "169.O izuzecima sluzbene osobe koja je ovlastena da rjesava ili da obavlja pojedine radnje u postupku u federalnom  organu uprave i federalne ustanove odlucuje:",
+    "a": [
+      "Rukovoditelj koji rukovodi tim organom odnosno ustanovom",
+      "Sluzbena osoba ovlastena od strane rukovodioca",
+      "Drugostepeni organ"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "170.Disciplinski postupak protiv drzavnog sluzbenika u skladu sa Zakonom o drzavnoj sluzbi FBih vodi:",
+    "a": [
+      "Disciplinska komisija",
+      "ADS F BiH",
+      "Rukovodilac organa"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "171.Odluke Odbora drzavne sluzbe za zalbe FBiH dostavice se podnosiocu u roku od:",
+    "a": [
+      "Petanest dana od dana donosenja",
+      "Sedam dana od dana donosenja",
+      "Osam dana od dana donosenja"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "172.Mapa puta Road Map naziz je za dokument kojim je definirano 18 kljucnih uvjeta koje BiH trebala ispuniti kako bi se  pristupilo izradi Studije izvodljivosti za pocetak pregovora Sporazuma o stabilizaciji i pridruzivanju ,a objavljen je:",
+    "a": [
+      "2000",
+      "2007",
+      "1999"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "173.U slucajevima diskriminacije u smislu odredbi zakona o radu Brcko Distrikta BiH,radnik kao i lice koje trazi  zaposlenje mogu od poslodavca zahtijevati zastitu u roku od:",
+    "a": [
+      "15 dana od dana saznanja za diskriminaciju",
+      "20 dana",
+      "30 dana"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "174.Radnik,za svaku kalendarsku godinu ima pravo na placeni godisnji odmor u trajanju od:",
+    "a": [
+      "Najmanje 15 radnih dana,a najduze 30 radnih dana",
+      "Najmanje 20 radnih dana a najduze 35 radnih dana",
+      "Najmanje 20 radnih dana a najduze 30 radnih dana"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "175.Prvo prosirenje EEZ je bilo 1973 godine i pristupili su:",
+    "a": [
+      "Portugal i Spanjolska",
+      "Danska,Irska i Ujedinjeno Kraljevstvo",
+      "Austrija,Finska i Svedska"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "176.Nadleznosti Centralne banke BiH:",
+    "a": [
+      "Odreduje Parlamentarna skupština uz odredene uvjete utvrdene Ustavom",
+      "Upravni odbor Centralne banke BiH",
+      "Parlamentarna skupština na prijedlog Predsjednistva"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "177.Prijem i otprema racuna i drugih finansijskih akata i dokumentacija u rad organizacionoj jedinici se dostavlja putem:",
+    "a": [
+      "Knjige za optremu racuna",
+      "Knjige primljenih racuna",
+      "Knjige za licnu postu"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "178.Amandmanom na Ustav Federacije:",
+    "a": [
+      "Ne mogu se ukinuti niti umanjiti nijedno od prava i sloboda utvrđenih u Ustavu Federacije",
+      "Ne moze se izmijenit oblik federalnog uredenja",
+      "Mogu se mijenjati sve odredbe Federacije"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "179.Sudije Evropskog suda za ljudska prava:",
+    "a": [
+      "bira Parlamentarna skuptština Vijeca Evrope vecinom glasova sa liste od tri kandidata koje imenuje visoka strana  ugovornica",
+      "bira Komitet ministara Vijeca Evrope veinom glasova",
+      "biraju tijela visoke strane ugovornice u skaldu sa nacionalnim propisima"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "180.Protiv kojeg rjesenja se moze izjaviti zalba?",
+    "a": [
+      "U pravilu,protiv rjesenja donesenog u prvom stupnju kao i kad prvostupanjski organ nije u odredenom roku  donio rjesenje o zahtjevu stranke",
+      "Proti rjesenja koje donosi drugostepeni organ kada je to rjesenje konacno",
+      "Protiv rjesenja koje donosi drugostepeni organ kada je to rjesenje pravomocno"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "182.Moze li sluzbena osoba biti svjedok u postupku?",
+    "a": [
+      "Ne moze",
+      "Moze",
+      "Moze uz odredena ogranicenja"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "183.U skladu sa zakonom o radu F BiH prekovremeni rad moze trajati najduze:",
+    "a": [
+      "8 sati sedmicno",
+      "10 sati",
+      "15 sati"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "184.Jedina ovlastena institucija za monetarnu politiku na cijelom podrucju BiH?",
+    "a": [
+      "Vijece ministara BiH",
+      "Centralna banka biH",
+      "Ministarstvo finansija BiH"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "185.Prema zakonu o drzavnoj sluzbi F BiH rukovodeci drzavni sluzbenik koji je imenovan na polozaj u bilo kojem  zakonodavnom ili izvrsnom organu na bilo kojem nivou vlasti u BiH:",
+    "a": [
+      "Podnosi ostavku na mjestu u drzavnoj sluzbi",
+      "Ima pravo na odsustvo iz drzavne sluzbe od trenutka kada je imenovan",
+      "Vraca se na isto ili slicno radno mjesto po isteku funkcije na koju je imenovan"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "186.U postupcima pred organima uprave BIH stranke se:",
+    "a": [
+      "Mogu koristiti i drugim jezikom ako taj jezik nije jedan od sluzbenik jezika",
+      "Mogu koristiti i drugim jezikom ako taj jezik nije jedan od sluzbenih jezika i to o trosku organa uprave pred kojim  se vodi postupak",
+      "Mogu koristiti i drugim jezikom ako taj jezik nije jedan od sluzbenih jezika ali iskljucivo o svom trosku"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "187.1.januara 2002 godine je uvedena nova valuta euro koji je zamijenio stare valute u:",
+    "a": [
+      "12 drzava",
+      "16 drzava",
+      "11 drzava"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "188.Drugi stub EU obuhvata:",
+    "a": [
+      "Zajednicku vanjsku i sigurnosnu politiku to jest segment vanjsike politike",
+      "Segment pravosuda",
+      "Ekonomski segment"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "189.Inspekcijske poslove osim poslova upravne inspekcije na teritoriji F BiH obavlja:",
+    "a": [
+      "Finansijska policija u saradnji sa upravnom inspekcijom",
+      "Federalna uprava za inspekcijske poslove",
+      "Federalni upravni inspektorat u okviru Federalnog ministarstva pravde"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "190.Trece prosirenje EEZ je bilo 1986 godine i pristupile su:",
+    "a": [
+      "Portugal i Spanija",
+      "Austrija,Finska i Svedska",
+      "Danska,Irska i Ujedinjeno Kraljevstvo"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "191.Materijalnu stetu koju u vrsenju drzavne sluzbe ucini namjerno ili krajnjom nepaznjom u skladu sa Zakonom o  drzavnoj sluzbi FBiH drzavni sluzbenik.",
+    "a": [
+      "Duzan je nadoknaditi samo u visini plate",
+      "Nije duzan nadoknaditi",
+      "Duzan je nadoknaditi"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "192.Moze li se izvrsiti rjesenje dok traje rok za zalbu?",
+    "a": [
+      "Moze",
+      "Ne moze",
+      "Moze na zahtjev stranke"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "193.Direktora odnosno rukovdoioca i zamjenika direktora samostalne upravne organizacije imenuje:",
+    "a": [
+      "Parlamentarna skupština BiH na prijedlog Vijeca ministara BiH",
+      "Predsjedavajući Vijeca ministara BiH na prijedlog Vijeca ministara BiH",
+      "Vijece ministara BiH na prijedlog predsjedavajuceg Vijeca ministara BiH"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "194.U prvih sest godina poslije stupanja na snagu Ustava BiH,Centralna banka BiH ne moze:",
+    "a": [
+      "Davati kredite stampanjem novca niti funkcionirati kao valutna komisija",
+      "Vrsiti zaduzivanje bez odobrenja PS BiH",
+      "Sklapati medunarodne sporazume o zaduzivanju"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "195.Odluke Odbora drzane sluzbe za zalbe su:",
+    "a": [
+      "Konacne i ne mogu biti preispitivane od strane suda",
+      "Konacne i mogu biti preispitivane od strane nadleznog suda",
+      "Konacne i mogu biti preispitivane od strane Vlade FBiH"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "196.Treci stub EU obuhvata:",
+    "a": [
+      "Segment pravosuda to jest saradnju u pravosudu i unutrasnjim sudovima",
+      "Uajednicku vanjsku i sigurnosnu politiku",
+      "Ekonomski segment"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "197.Kada ce se zavesti akti koji se iz opravdanih razloga nisu mogli zavesti istog dana kada su primljeni:",
+    "a": [
+      "Najkasnije prvog narednog radnog dana prije zavodenja nove poste i to pod datumom kada su akti primljeni",
+      "Kada to naredi sef pisarnice",
+      "Najkasnije za dva dana od dana prispijeca akta"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "198.Administrativno tehnicke i strucne poslove za Centralnu izbornu komisiju BIH obavlja:",
+    "a": [
+      "Ministarstvo pravde BiH",
+      "Sekreterijat Centralne izborne komisije BiH",
+      "Sekreterijat PS BiH"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "199.Vijece Evropske unije cini:",
+    "a": [
+      "Ministri Vlada EU koji se sastaju kako bi raspravljali o zakonima,donosili ih i mijenjali",
+      "Predsjednici drzava clanica evropske unije koji donose kljucne odluke",
+      "Clanovi Evropskog parlamenta"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "200.Ombudsmeni Federacije BiH imaju pravo u vezi s postupcima:",
+    "a": [
+      "Pokretati postupke pred nadleznim sudovima.intervenirati u postupcima koji su u toku i prisustvovati sudskim i  upravnim postupcima."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "201.Evropsko Vijece je:",
+    "a": [
+      "Institucija EU koja donosi zakonodavne propise i regulira trgovinske odnose",
+      "Institucija EU koja definira opce politicke smjernice i prioritete EU",
+      "Savjeotdavno tijelo EU"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "202.Kada se Predsjednik Federacije moze smijeniti?",
+    "a": [
+      "Kada odluci da ukine kantonalne vlade na vlastitu inicijativu",
+      "Ukoliko je preksio zakletvu ili je iz drugih razloga nedostojan vrsenja te funkcije",
+      "Kada promijeni himnu Federacije bez saglasnosti Parlamenta"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "203.Ponavljanje postupka u upravnom sporu se pokreće:",
+    "a": [
+      "Zahtjevom",
+      "Zalbom",
+      "Automatski bez potrebe sa posebnim zahtjevom"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "204.EUROSTAT je?",
+    "a": [
+      "Agencija za ekonomske analize EU",
+      "Statisticki ured Evropskih zajednica ciji je zadatak obrada i objavljivanje uporedivih statistickih podataka na nivouEU",
+      "Odjel za istrazivanje trzista EU"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "205.Koji Ministar vanjskih poslova je potpisao Ugovor o celiku i uglju?",
+    "a": [
+      "Robert Suman",
+      "Jean Monet",
+      "Konrad Adenauer"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "206.Sta je IPA?",
+    "a": [
+      "Instrument predpristupne pomoci",
+      "Inovativni plan akcije",
+      "Integracija politika za adaptaciju"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "207.Koja zemlja je 2016 godine glasala za izlazak iz EU?",
+    "a": [
+      "Velika Britanija",
+      "Francuska",
+      "Spanija"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "208.Ko imenuje članove discplinske komisije?",
+    "a": [
+      "ADS FBiH",
+      "Ministarstvo za rad",
+      "Direktor organizacije"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "209.Uvjerenje i potvrde spadaju pod upravne akte?",
+    "a": [
+      "Spadaju ali samo u odredenim slucajevima",
+      "Ne spadaju",
+      "Spadaju ali samo u postupku koji je zavrsen"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "210.Stranka u postupku moze odustati od zahtjeva:",
+    "a": [
+      "U toku cijelog postupka"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "211.U slucaju laksih povreda radnih obaveza ugovor o radu se ne moze otkazati bez:",
+    "a": [
+      "Odluke upravnog odbora",
+      "Odborenja sindikata",
+      "Prethodnog izjasnjenja zaposlenika"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "212.Gdje se pise dopis?",
+    "a": [
+      "Na memorandumu",
+      "Na obicnom papiru",
+      "U zapisniku"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "213.U omot zelene boje ulazu se koji se zavode u upisnik:",
+    "a": [
+      "prvostepenih predmeta i akata po kojima se upravni postupak  pokrece po zahtjevu stranke, a plava boja po sluzbenoj duznosti"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "214.Sta se podrazumijeva pod nocnim radom?",
+    "a": [
+      "22 h -06 h",
+      "21 h 05 h",
+      "23 h- 07 h"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "215.Ko bira policijskog komesara?",
+    "a": [
+      "Neovisni odbor",
+      "Ministar unutrasnjih poslova",
+      "Narodna skupština"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "216.Ko je donio Uredbu o kancelarijskom poslovanju F BiH?",
+    "a": [
+      "Parlament F BiH",
+      "Vlada F BiH na prijedlog federalnog ministra pravde",
+      "Predsjednik F BiH"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "217.Protiv odluke izborne komisije moze se uloziti zalba:",
+    "a": [
+      "Apelacionom odjeljenju",
+      "Evropsku sudu za ljudska prava",
+      "Vrhovnom sudu"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "218.Sta je revers?",
+    "a": [
+      "Privremena evidencija o rukovanju arhivskim predmetima",
+      "Zahtjev za vracanje dokumenta",
+      "Izvjestaj o pregledu arhivskih materijala"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "219.U koliko faza se sastoji ovjeravanje rukopisa i potpisa?",
+    "a": [
+      "Cetiri",
+      "Dvije",
+      "Tri"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "220.klasifikacija predmeta i akata u RS:",
+    "a": [
+      "Prema bojama omota",
+      "Od 0 do 9",
+      "Od A do F"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "221.O statusnim pitanjima sluzbenika i namjestenika odlucuje:",
+    "a": [
+      "Upravni odbor",
+      "Vlada",
+      "Rukovodioc organa uprave"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "222.Razmjena studenata kojim programom se obavlja?",
+    "a": [
+      "Erasmus",
+      "Comenius",
+      "Tempus"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "223.Ko vodi rokovnik predmeta u organima sluzbe za upravu?",
+    "a": [
+      "Rukovdilac sektora",
+      "Sluzbenik pisarnice",
+      "Glavni sekretar"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "225.Institucija EU koja odreduje opce politicko usmjerenje?",
+    "a": [
+      "Savjet EU",
+      "Evropsko Vijece",
+      "Evropska komisija"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "226.Kada se i na koji nacin razvrstavaju upravni akti u RS?",
+    "a": [
+      "Po vrstama upravnikh odluka i mjera",
+      "Primljene akte ovlasteni radnik razvrstava na predmete upravnog postupka i na ostale akte predmeta  neupravnog postupka",
+      "Primljene akte razvrstava rukovodilac"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "227.Postupak ovjeravanja potpisa,rukopisa i prijepisa ureden je:",
+    "a": [
+      "Zakonom i uputstvom",
+      "Uredbom",
+      "Uredbom i upustvom"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "228.Ko odlucuje o sukobu nadleznosti izmedu Distrikta Brcko i institucija BiH'",
+    "a": [
+      "Ustavni sud BiH",
+      "Predsjednistvo BiH",
+      "Vijece ministara BiH"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "230.Ocjenjivanje sluzbenika u RS vrsi se svakih?",
+    "a": [
+      "6 mjeseci",
+      "12 mjeseci",
+      "3 mjeseca"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "231.U koju knjigu se zavode racuni?",
+    "a": [
+      "Knjiga finansijskih transakcija",
+      "Knjiga prijema i isporuke racuna",
+      "Otpremna knjiga racuna i drugih finansijskih sredstava"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "232.Najmanja drzava povrsinom u EU?",
+    "a": [
+      "Slovenija a Italija je najveca drzava",
+      "Luksemburg a Spanija je najveca drzava",
+      "Malta a Francuska je najveca drzava povrsinom u EU"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "233.Pripravnici imaju pravo na platu od :",
+    "a": [
+      "80",
+      "70",
+      "100"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "234.Koliko maloljetna osoba moze da radi u FBiH puno radno vrijeme?",
+    "a": [
+      "30 sati",
+      "35 sati",
+      "40 sati"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "235.Mandat sudija Ustavnog suda:",
+    "a": [
+      "U prvom sazivu je mandat trajao 5 godina,a sudije kasnijeg saziva mogu obavljati svoje duznosti do70godina"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "236.Sekretar Vlade F BiH:",
+    "a": [
+      "Imenovan je od strane premiejra i odgovara samo njemu",
+      "Ima status drzavnog sluzbenika",
+      "Nije drzavni sluzbenik,a Vlada F BiH imenuje i razrjesava sekretara,a za svoj rad odgovara Vladi,Premijeru i  zamjeniku Premiejra"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "237.Koji je moto ili slogan EU?",
+    "a": [
+      "Ujedinjeni u raznolikosti"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "238.Protiv rješenja Upravnog inspektorata poslodavac i zaposlenik mogu izjaviti žalbu:",
+    "a": [
+      "Ministru Ministarstva pravde BiH,a protiv rješenje ministra pravde može se pokrenuti upravni spor predSudom BiH.Rješenje ministra pravde je konačno."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "1.Ko bira Europski parlament?",
+    "a": [
+      "Biraju ga glasači izravno"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "2. Da li se otisak prijemnog štambilja stavlja na prilog dostavljen uz akt:",
+    "a": [
+      "Ne."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "3.Kome se podnosi zahtjev za članstvo EU?",
+    "a": [
+      "rotirajućem predsjednistvu Vijeća EU"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "4.Otkazni rok kada zaposlenik otkazuje ugovor o radnu ne može bit kraci od:",
+    "a": [
+      "7 dana,a kada daje poslodavac otkazni rok ne moze biti kraci od 14 dana."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "5.Ko određuje,čuva i odobrava izradu pečata?",
+    "a": [
+      "Ministarstvo pravde BiH."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "6.Himna EU:",
+    "a": [
+      "Oda radosti"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "7.Zemlje koje su potpisale ugovor o čeliku?",
+    "a": [
+      "Zapadna Njemačka, Francuska, Belgija, Nizozemska, Luksemburg i Italija"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "8.Evropski parlament ima tri uloge:",
+    "a": [
+      "donosi zakone,nadzire rad institucija EU,sa Vijecem EU dijeli ovlasti nad budzetom EU."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "9. Ko je uveo deset prioriteta za EU?",
+    "a": [
+      "Predsjednik Evropske komisije Jean Claude Junker"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "10. Svrha potpisivanja Lisabonskog ugovora:",
+    "a": [
+      "stvaranje novih upravljačkih struktura i pojednostavljenje metoda rada"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "12.Isključive nadležnosti Europske Unije:",
+    "a": [
+      "Carinska,monetarna i trgovinska politika.",
+      "u carinskoj uniji;u uspostavljanju pravila o natjecanju koja su potrebna za funkcioniranje unutarnjeg tržišta;u monetarnoj politici za zemlje europodručja,u očuvanju morskih bioloških resursa u okviru za jed n ičke ribarstvene politike;u zajedničkoj trgovinskoj politici;u zaključivanju međunarodnih ugovora u skladu s  određenim uvjetima.",
+      "Komplementarne nadleznosti: zastita i poboljsanje ljudskog",
+      "zdravlja,turizam,kultura,industrija,obrazovanje, civilna zastita i administrativna saradnja. -Podijeljene nadleznosti su:unutarnje trziste,socijalna politika,ekonomska,socijalna i teritorijalna kohezija, poljoprivreda i ribarstvo,zastita potrosaca itd."
+    ],
+    "correct": 3
+  },
+  {
+    "q": "13. Koja država članica EU ima najviše zastupnik u Europskom parlamentu?",
+    "a": [
+      "Njemačka"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "14.Temeljni stubovi jedinstvenog tržišta EU:",
+    "a": [
+      "kretanje ljudi,roba,usluga i kapitala poznate pod zajedničkim nazivom četiri slobode."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "15. Prvi formalni ugovorni odnos između BiH i EU?",
+    "a": [
+      "Potpisivanje sporazuma o stabilizaciji i pridruživanju"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "16. Članovi Vijeca EU su:",
+    "a": [
+      "Jedan ministar iz svake države članice"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "17. Kvorum za rad Doma PS BiH čine:",
+    "a": [
+      "vecina od ukupnog broja delegata Doma naroda"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "18. Ustav BiH:",
+    "a": [
+      "Ima jedan amandman kojim je definiran status Brcko Distrikra BiH-djelomicno sam siguran da je tačanodgovor."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "19. Godišnji budzet Ps BiH predlaže:",
+    "a": [
+      "Vijece ministara uz saglasnost Predsjedništva BiH."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "20. Nadzor nad primjenom Zakona o principima lokalne samouprave u FBiH vrši:",
+    "a": [
+      "Federalno ministarstvo pravde i Federalno ministarstvo finansija,svako u okviru svoje nadleznosti."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "21. Način rada,odlučivanje i druga pitanja od značaja za rad Vlade Brčko distrikta Bih osim zakonom uređuje se i:",
+    "a": [
+      "Poslovnikom o radu Vlade"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "22.Lični podaci u smislu Zakona o zastiti ličnih podataka BiH znače:",
+    "a": [
+      "bilo koju informaciju koja se odnosi na fizičko lice koje je identifcirano ili se može utvrditi identitet lica."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "23. Samostalne Federalne uprave su:",
+    "a": [
+      "Federalna uprava civilne zastite,Federalna uprava za geodetske i imovinsko pravne poslove,Federana uprava za inspekcijske poslove."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "24. Prema organima uprave BiH,s ciljem osiguranja izvršavanja zakona i drugih propisa,upustva i smjernice o načinu izvršavanja zakona i drugih propisa može utvrditi:",
+    "a": [
+      "PS BIH,Predsjedništvo BiH i Vijece ministara BiH"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "25. Privremeno povremeni radovi prema zakonu o radu na određeno vrijeme mogu se potpisati najduže na:",
+    "a": [
+      "6 mjeseci"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "26. Maloljetni radnik ima pravo na ljekarski pegled,a na teret poslodavca najmanje jednom u:",
+    "a": [
+      "dvije godine"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "27.Tko je u EU nadležan za rješavanje sukoba između članica i institucija EU?",
+    "a": [
+      "Sud EU,nisam apsolutno siguran."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "28.Lokalnu samoupravu u RS čine:",
+    "a": [
+      "gradovi i opstine"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "29. Ko je finansijski podrzao Marsalov plan?",
+    "a": [
+      "SAD."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "30.Tko raspoređuje elektronsku poštu u RS?",
+    "a": [
+      "Starješina organa ili drugi ovlasceni sluzbenik."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "32. Prema zakonu o radu RS,najnižu platu radnika utvrđuje Vlada RS:",
+    "a": [
+      "na prijedlog Ekonomskog i socijalnog savjeta RS"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "1. Po Ustavu Republike Srpske,Republika Srpska je?",
+    "a": [
+      "jedinstven i nedjeljiv ustavnopravni entitet."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "2. Po Ustavu RS sredstva u društvenoj i državnoj svojini mogu se otuđivati?",
+    "a": [
+      "samo po tržišnim kriterijumima."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "4. Nacrt akta o promjeni Ustava RS utvrđuje?",
+    "a": [
+      "Narodna skupština većinom glasova od ukupnog broja narodnih poslanika."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "5. Zakone usvojene od Narodne skupštine RS Vijeće naroda razmatra:",
+    "a": [
+      "ako se odnosi na vitalni interes definiran Ustavom RS."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "6. Cenzura štampe i drugih vidova javnog obavještavanja je?",
+    "a": [
+      "ZABRANJENA."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "7. U Ustavu RS građanima se garantuje sloboda izražavanja nacionalne pripadnosti i kulture i pravo uporabe svogjezika i pisma?",
+    "a": [
+      "niko nije dužan da se izjašnjava o svojoj nacionalnoj pripadnosti."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "8. Po Ustavu RS,glavni grad RS je:",
+    "a": [
+      "Sarajevo"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "9. Po Ustavu RS,službeni jezik i pismo RS su:",
+    "a": [
+      "jezik srpskog naroda,jezik bošnjačkog naroda i jezik hrvatskog naroda,a službena pisma su ćirilica i latinica"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "10. Po Ustavu RS Teritorij RS?",
+    "a": [
+      "jedinstvena,nedjeljiva i neotuđiva."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "11. Prijedlog za izglasavanje nepovjerenja Vladi RS može podnijeti?",
+    "a": [
+      "najmanje 20 narodnih poslanika."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "12. Šta se smatra informacijom od javnog značaja prema Zakonu o slobodnom pristupu informacijama od javnog značaja RS?",
+    "a": [
+      "Informacija od javnog značaja,u smislu ovog zakona,jeste informacija kojom raspolaže organ javne vlasti,nastala u radu ili u vezi sa radom organa javne vlasti,sadržana u određenom dokumentu,a odnosi se na sve o čemu javnost ima opravdan interes da zna."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "14. Ustavotvornu i zakonodavnu vlast u RS ostvaruje:",
+    "a": [
+      "Narodna skupština RS"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "15. Narodna skupština RS ima:",
+    "a": [
+      "83 narodna poslanika,od toga najmanje četiri člana jednog konstitutivnog naroda"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "16. Predsjednik RS ima:",
+    "a": [
+      "ima dva potpredsjednika iz različitih konstitutivnih naroda."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "18. Zaštitu Ustavnosti i zakonitosti u RS osigurava:",
+    "a": [
+      "Ustavni sud RS"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "19. Radna mjesta državnih službenika u RS dijele se na:",
+    "a": [
+      "položaje i na izvršilačka radna mjesta"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "20. Kako državni službenik u RS stiče položaj?",
+    "a": [
+      "postavljenjem od Vlade ili drugog državnog organa."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "21. Kako se određuje položaj u sudovima i javnim tužilaštvima?",
+    "a": [
+      "aktom Vrhovnog kasacionog suda odnosno državnog tužioca,a u ostalim državnim organima položaji se određuju aktim tih organa."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "24. Po Ustavu RS upotreba i iskorišćavanje stvari od posebnog kulturnog,naučnog ili istorijskog  značaja ili od značaja za zaštitu prirode i čovjekove okoline?",
+    "a": [
+      "mogu se na osnovu zakona ograničiti uz punu naknadu."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "26. Po Ustavu RS u Narodnoj skupštini će biti zastupljena najmanje?",
+    "a": [
+      "četiri člana jednog konstitutivnog naroda."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "27. Obaveza plaćanja poreza i drugih dadžbina,po Ustavu RS?",
+    "a": [
+      "je opšta i utvrđuje se prema ekonomskoj snazi obveznika."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "30. Po Ustavu RS kada su u pitanju svojinska prava na nepokretnost?",
+    "a": [
+      "jamči se svojina na poljoprivredno zemljište,a na šume i šumsko zemljište u zakonom utvrđenim granicama."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "31. Vlada i članovi Vlade RS odgovaraju?",
+    "a": [
+      "Narodnoj skupštini."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "32. Po Ustavu RS obavezno i besplatno je?",
+    "a": [
+      "osnovno školovanje."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "33. Nakon potpunog sprovođenja Aneksa 7.Sastav Vlade RS mora imati?",
+    "a": [
+      "najmanje 15 posto pripadnika jednog konstitutivnog naroda,najmanje 35 posto iz reda dva konstitutivnog naroda inajmanje jednog ministra iz reda Ostalih."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "34. Vladu RS sačinjavaju?",
+    "a": [
+      "predsjednik,podpredsjednik i ministri."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "35. Po Ustavu RS u slučaju različitosti u odredbama o pravima i slobodama između Ustava RS i Ustava BiHprimjenjuje se?",
+    "a": [
+      "one odredbe koje su za pojedinca povoljnije."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "36. Po Ustavu RS strana lica?",
+    "a": [
+      "mogu sticati pravo svojine i pravo po osnovu ulaganja kapitala,u skladu sa zakonom."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "37. Ocjenjivanje državnih službenika u RS vrši se svakih?",
+    "a": [
+      "šest mjeseci."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "38. Ko propisuje kancelarijsko poslovanje u RS?",
+    "a": [
+      "Vlada RS uredbom."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "39. Ko je nadležan za rješavaje upravnih stvari u prvom stepenu RS?",
+    "a": [
+      "stvarno su nadležni organi određeni zakonom ili drugim propisom."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "40. Ko rješava sukob nadležnosti između republičkih organ,između organa uprave i upravnih organizacija  kao i izmeđuupravnih organizacija?",
+    "a": [
+      "Vlada RS"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "41. Ko vrši razvrstavanje radnih mjesta i poslova u RS?",
+    "a": [
+      "Vlada uredbom vrši razvrstavanje radnih mjesta"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "42. Može li se zaposliti državni službenik na izvršilačkom radnom mjestu bez položenog državnog stručnog ispita?",
+    "a": [
+      "Može,ali je dužno da ga položi u roku utvrđenom zakonom."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "44. Ko vodi Evidenciju programa stručnog usavršavanja u državnim organima RS u okviru Centralne evidencije?",
+    "a": [
+      "Nacionalna akademija"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "49. Po Ustavu RS zaposleni imaju pravo na štrajk:",
+    "a": [
+      "pod uslovima utvrđenim zakonom."
+    ],
+    "correct": 0
+  },
+  {
+    "q": "1.Za donošenje uputstva o sprovođenju kancelarijskog poslovanja u organima uprave RS ovlašten je: a) Ministar pravde",
+    "a": [
+      "Premijer Vlade",
+      "Ministar uprave i lokalne samouprave"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "2.Probni rad namještenika F BiH traje:",
+    "a": [
+      "6 mjeseci",
+      "3 mjeseca",
+      "12 mjeseci"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "3.Generalni sekretar Vlade RS odgovara:",
+    "a": [
+      "Vladi RS",
+      "Predsjedniku Vlade RS",
+      "Predsjedniku Vlade i Vladi RS"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "4.Predsjedanje Vijeća EU rotira se svakih:",
+    "a": [
+      "6 mjeseci",
+      "12 mjeseci",
+      "4 mjeseca"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "5.Po zahtjevu za odgodu izvršenja upravnog akta do donošenja sudske odluke odlučuje:",
+    "a": [
+      "Organ nadležan za provođenje izvršenja upravnog akta",
+      "Nadležni sud kome je tužba podnesena",
+      "Organ nadležan za provođenje izvršenja ili nadležni sud"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "6.Probni rad državnog službenika F BiH traje:",
+    "a": [
+      "6 mjeseci",
+      "3 mjeseca",
+      "12 mjeseci"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "7.Poslodavac koji zapošljava više od 30 radnika,a koji u periodu od naredna tri mjeseca ima namjeru da zbog  ekonomskih,tehničkih razloga otkaže ugovor o radu najmanje petorici radnika dužan je u skladu sa Zakonom o radu F BiHda se:",
+    "a": [
+      "Konsultira sa Vladom F BiH",
+      "Udruženjem poslodavca",
+      "Vijećem zaposlenika i sindikata"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "8.Organ koji je riješio stvar u drugom stupnju,po pravilu svoje rješenje sa spisima predmeta šalje prvostupanjskom  organu koji je dužan da rješenje dostavi stranci u roku:",
+    "a": [
+      "3 dana",
+      "5 dana",
+      "8 dana"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "9.Poslove organa uprave u Federaciji BiH ne obavlja:",
+    "a": [
+      "Federalno tužilaštvo",
+      "Federalna ministarstva",
+      "Upravne organizacije"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "10.Republička uprava za inspekcijske poslove RS:",
+    "a": [
+      "Samostalna republička uprava",
+      "Samostalna republička upravna organizacija",
+      "Uprava u sastavu Ministarstva pravde"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "11.Prema Zakonu u opštem upravnom postupku RS propisano je da,ako posljednji dan roka za obavljanje radnji u  postupku pada u neradni dan:",
+    "a": [
+      "Rok ističe istekom tog dana",
+      "Rok se produžava za jedan dan",
+      "Rok ističe istekom prvog narednog dana"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "12.Posebni zakonodavni postupak,koji je definiran Ugovorom iz Lisabona podrazumijeva sljedeće bivše postupke:",
+    "a": [
+      "Postupak proširenja",
+      "Postupak tajnih pregovora",
+      "Postupak pristanka i savjetovanja"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "13.Svaki kanton može prenijeti svoja ovlašćenja na:",
+    "a": [
+      "Na općinu i grad na svojoj teritoriji ili na federalnu vlast",
+      "Na kancelariju za izdavanje pečata",
+      "Na nepoznate entitestke entiteta"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "14.Brčko Distrikt je:",
+    "a": [
+      "Brčko Distrikt je adiministrativna jedinica lokalne samouprave koja je pod suverenitetom BiH:",
+      "Brčko Distrikt nije pod suverenitetom BiH,već je pod zajedničkom nadležnošću BiH i entiteta RS i FBiH",
+      "Brčko Distrikt nije jedinstvena administrativna jedinica lokalne samouprave,već je entitet unutar BiH sa specifičnim  upravnim statusom"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "15.Može li se produžiti probni rad državnog službenika?",
+    "a": [
+      "Može,ako to odluči rukovodilac institucije na obrazložen zahtjev državnog službenika i to na period od još šest  mjeseci",
+      "Probni rad državnog službenika se ne može produžiti",
+      "Produženje probnog rada državnog službenika se automatski na isti period kao i prvobitni probni rad"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "16.Osnovni dijelovi akta su?",
+    "a": [
+      "Zaglavlje,predmet,naziv i adresa primaoca,sadržaj akta,naziv funkcije osobe ovlaštene za potpisivanje akta,otisakpečata",
+      "Zaglavlje,predmet,datum,sadržaj akta,naziv funkcije osobe ovlaštene za potpisivanje akta,otisak pečata",
+      "Zaglavlje,predmet,naziv i adresa primaoca,sadržaj akta,datum,broj telefona,potpisivanje akta"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "17.Samo jedna zemlja iz regije nije imala zadovoljavajuću ocjenu iz studije izvodivosti u prvom pokušaju.To je?",
+    "a": [
+      "Crna Gora",
+      "Makedonija",
+      "Albanija"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "18.Visinu dodatka na osnovnu platu za prekovremeni i noćni rad zaposlenika koji su budžetski korisnici određuje:",
+    "a": [
+      "Lokalna uprava",
+      "Vijeće ministara BiH",
+      "Sindikat"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "19.Vanjski državni dug nastao u skladu sa međunarodnim sporazumom?",
+    "a": [
+      "Ne podrazumijeva dugove BiH nastale u periodu od 02.04 do 14.12.1995 godine,a država nema nikakvu  odgovornost za otplatu tog duga",
+      "Vanjski državni dug nastao u skladu sa međunarodnim sporazumom ne podrazumijeva dugove koji su proizašli iz  izvanrednih okolnosti ili vanrednih političkih događaja",
+      "Vanjski državni dug nastao u skladu s međunarodnim sporazumom podrazumijeva isključivo dugove koji su  nastali prije stupanja na snagu sporazuma"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "20.Agencija za nadzor nad tržištem BiH je?",
+    "a": [
+      "Neprofitna organizacija",
+      "Privatna korporacija",
+      "Samostalna upravna organizacija"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "21.Za lakše povrede službene dužnosti može se izreći sljedeća disciplinska kazna?",
+    "a": [
+      "Isključenje iz sindikata",
+      "Suspendiranje s posla",
+      "Pismena opomena i pismeni ukor"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "22.Kvorum Doma naroda PS BiH čini?",
+    "a": [
+      "Devet članova,pod uslovom da su prisutna tri bošnjačka,tri srpska i tri hrvatska delegata",
+      "Petnaest članova,bez obzira na nacionalnu pripadnost delegata",
+      "Devet članova,bez obzira na nacionalnu pripadnost delegata"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "23.Šta je Državni fond?",
+    "a": [
+      "Nezavisna organizacija koja upravlja financijama države",
+      "Fond koji se koristi za potrebe obrazovanja i zdravstva",
+      "Dio institucionalne strukture DIS-a i kanal za protok finansijskih sredstava iz EU"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "24.Koji od sljedećih uslova nije opšti uslov za postavljenje državnog službenika?",
+    "a": [
+      "Osoba koja nije državljanin BiH",
+      "Da je regulisao vojnu obavezu u skladu sa zakonom",
+      "Osoba koja nije starija od 16 godina"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "25.Policija Brčko Distrikta ima?",
+    "a": [
+      "Šefa i tri zamjenika",
+      "Šefa i jednog zamjenika",
+      "Šefa i dva zamjenika"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "26.Rimski ugovor iz 1957 su se sastojali od?",
+    "a": [
+      "Ugovora za osnivanje Evropske obrazovne zajednice i Ugovora za osnivanje Evropske zajednice za atomsku  energiju",
+      "Ugovora o osnivanju Europske ekonomske zajednice i Ugovora o osnivanju Europske zajednice za atomsku  energiju",
+      "Ugovora za osnivanje Europske trgovačke zajednice i Ugovora o osnivanju Evropske zajednice za atomsku  energiju"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "27.Unapređenje rukovodećeg državnog službenika na više radno mjesto vrši se?",
+    "a": [
+      "Putem eksternog konkursa",
+      "Isključivo putem javnog konkursa",
+      "Putem internog konkursa"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "28.Šta je to EURO?",
+    "a": [
+      "To je jedinstvena valuta koju je 1.januara 1999 godine prihvatilo 11 zemalja članica EU (  Austrija,,Belgija,Finska,Francuska,Irska,Italija,Luksemburg,Nizozemska,Njemačka,Portugal i Španjolska) s krajnim ciljem  potpunog ukidanja nacionalne valute"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "29.Državnog službenika sa liste uspješnih kandidata,i uz prethodno pribavljeno mišljenje ADS FBiH postavlja?",
+    "a": [
+      "Rukovodilac organa državne službe",
+      "Predsjednik Komisije",
+      "Komisija za izbor kandidata"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "30.Rukovodilac samostalne uprave i samostalne ustanove za svoj rad i upravljanje odgovara?",
+    "a": [
+      "Parlamentu",
+      "Predsjedniku",
+      "Vladi FBiH"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "31.Prenos nadležnosti na državni nivo vršio se:",
+    "a": [
+      "Donošenjem akta",
+      "Donošenjem zakona",
+      "Rješenjem"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "32.Kako su se zvale prve tri zajednice europskih država?",
+    "a": [
+      "Savez europskih država,Europska zajednica i Europska federacija",
+      "Europska zajednica za ugljen i čelik,Europska ekonomska zajednica i Euratom",
+      "Europska federacija,Europska unija i Europska konfederacija"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "33.Postupak kada se svi akti i prilozi koji se odnose na isti predmet stavljaju u omot predmeta na koji se odnose se zove?",
+    "a": [
+      "Skupljanje",
+      "Pripajanje",
+      "Združivanje"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "34.PS BiH ima:",
+    "a": [
+      "tri doma",
+      "dva doma",
+      "četiri doma"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "35.Politički kriterij za članstvo u EU,Kriterij iz Kopenhagena podrazumijeva:",
+    "a": [
+      "Ekonomska stabilnost i rast,demokratija,vladavina prava",
+      "Stabilnost,demokratija,tehnološki napredak i inovacije,ekonomski razvoj",
+      "Stabilnost,institucija koje osiguravaju demokratiju,vladavinu prava,poštivanje ljudskih prava i zaštitu manjina. 36.Ugovor o radu u institucijama BiH može zaključiti?",
+      "Lice koje je navršilo 18 godina života",
+      "Osoba koja nije državljanin BIH",
+      "Osoba koja nije starija od 16 godina"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "37.Direktor federalne uprave u sastavu ministarstva odgovoran je?",
+    "a": [
+      "Parlamentu Federacije",
+      "Federalnom ministru i Vladi Federacije BiH",
+      "Predsjedniku Federacije"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "38.Da li se disciplinski postupak suspendira u slučaju preventivne suspenzije državnog službenika?",
+    "a": [
+      "Discplinski postupak se suspendira sve dok se ne donese odluka discplinske komisije",
+      "Disciplinski postupak se suspendira sve dok se ne donese pravomoćna presuda nadležnog suda",
+      "Disciplinski postupak se suspendira"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "39.Poslovno uslovljen redovan otkaz zasniva se na?",
+    "a": [
+      "Na prestanku potrebe za radom zbog nezadovoljavajućeg rada",
+      "Na prestanku potrebe za radom zbog socioloških razloga",
+      "Na prestanku potrebe za radom radnika zbog ekonomskih,tehničkih ili organizacijskih razloga"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "40.Evidencija u omot za predmete i akte vodi se?",
+    "a": [
+      "Samo na unutrašnjoj strani potpisa",
+      "Samo na prednjoj strani omota",
+      "Na prednjoj i unutrašnjoj strani omota"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "41.Pečat se po pravilu stavlja?",
+    "a": [
+      "S lijeve strane potpisa rukovodioca institucije",
+      "S desne strane potpisa rukovodioca institucije",
+      "Iznad potpisa rukovodioca institucije"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "42.Potvrda o prijemu se izdaje?",
+    "a": [
+      "automatski,bez obzira na zahtjev stranke",
+      "na zahtjev stranke koja neposredno predaje akt ili kada se radi o podnesku po kome se rješava u upravnom postupku",
+      "samo ako je podnesak fizički predat u upravnoj zgradi"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "43.Po Ustavu RS,RS je:",
+    "a": [
+      "Prema ustavu RS,RS je federacija koja se sastoji od više autonomnih regija",
+      "Jedinstvena,nedeljiva i neotuđiva",
+      "Prema Ustavu RS,RS je neovisna država"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "44.Vladu Brčko Distrikt čine:",
+    "a": [
+      "Gradonačelnik,zamjenik gradonačelnika,glavni koordinator Vlade i šefovi odjeljenja",
+      "Gradonačelnik i šefovi odjeljenja",
+      "Gradonačelnik,predsjedavajući skupštine,zamjenik gradonačelnika,glavni koordinator Vlade i šefovi odjejeljenja"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "45.Originalnu presudu,odnosno rješenje u upravnom sporu potpisuje?",
+    "a": [
+      "Ministar nadležan za upravne poslove",
+      "Samo zapisničar",
+      "Predsjednik vijeća i zapisničar"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "46.Imenovanje na mjesto savjetnika se može preinačiti u položaj državnog službenika sa sigurnošću uživanja položaja  prema Zakonu o državnoj službi F BiH?",
+    "a": [
+      "DA",
+      "Ne može",
+      "U određenim slučajevima"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "47.Ime jedinice Distrikta u BiH?-",
+    "a": [
+      "Brčko Distrikta BiH",
+      "Distrikt Brčko",
+      "Brčko Distrikt"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "48.Po tekstu Ustava,u nadležnosti institucija BiH ne spada:",
+    "a": [
+      "Politika i regulisanje pitanja imigracije,izbjeglica i azila",
+      "Kontrola vazdušnog saobraćaja",
+      "Odbrana"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "49.Ako predmetu koji je stavljen u arhivu treba radi združivanja priključiti akte primljene poslije njegovog arhiviranja,taj  predmet izdaje i nakon združivanja vraća u arhivu?",
+    "a": [
+      "Može uz revers ali nije obavezno",
+      "Bez reversa",
+      "Isključivo sa reversom"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "50.U Aneksu Ustava FBiH,kao instrumenti za zaštitu ljudskih prava,utvrđeni su:",
+    "a": [
+      "24 međunarodna dokumenta",
+      "20 međunarodna dokumenta",
+      "22 međunarodna dokumenta"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "51.Listu kategorija registraturskog materijala s rokovima čuvanja donosi?",
+    "a": [
+      "Komisija za nadzor",
+      "Agencija za državnu službu",
+      "Rukovodilac organa uprave ili službe za upravu"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "52.Kada rješenje nije doneseno u propisanom roku stranka može?",
+    "a": [
+      "Izjaviti žalbu nadležnom organu kao da je njen zahtjev prihvaćen",
+      "Izjaviti žalbu nadležnom organu kao da je njen zahtjev odbijen",
+      "Izjaviti žalbu nadležnom organu kao da je njen zahtjev odložen"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "53.Lokalnu samoupravu RS čine?",
+    "a": [
+      "Općine i udruženja",
+      "Gradovi i općine",
+      "Regije i gradovi"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "54.Kome državni službenik može izjaviti žalbu?",
+    "a": [
+      "Protiv rješenja državni službenik ima pravo u roku od 15 dana prijema rješenja izjaviti žalbu Odboru državne službe za  žalbe",
+      "30 dana",
+      "8 dana"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "55.Koliko članiva broji Centralna izborna Komisija?",
+    "a": [
+      "9 članova",
+      "8 članova",
+      "7 članova"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "56.Predsjednik Federacije?",
+    "a": [
+      "ima izvršnu funkciju ali nije šef federalne izvršne vlasti",
+      "predstavlja i zastupa federaciju i šef je federalne izvršne vlasti",
+      "nema izvršnu funkciju već samo simboličnu ulogu predstavljanja Federacije"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "57.Da li rukovodeći državni službenik može biti na odsustvu iz državne službe?",
+    "a": [
+      "Ne može",
+      "Može",
+      "Ne može bez odobrenja rukovodioca institucije"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "58.Organ uprave BiH donosi opće akte iz svoje nadležnsoti i to:",
+    "a": [
+      "Pravilnike,uputstva,instrukcije i naredbe",
+      "Zakone,instrukcije i pravilnik",
+      "Uputstva i pravilnike"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "59.Vlada FBiH može odlučivati ako sjednici prisustvuje:",
+    "a": [
+      "Više od polovice članova Vlade",
+      "Oba zamjenika Premijera,Predjsendika i više od polovice članova Vlade",
+      "Oba zamjenika i manje od polovice članova Vlade"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "60.Odluku o pokretanju postupka da se općini dodjeli status grada donosi:",
+    "a": [
+      "Vlada RS",
+      "Načelnik opštine",
+      "Skupština općine"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "61.Vlada F BiH donosi odluke:",
+    "a": [
+      "Većinom glasova prisutnih sjednici",
+      "Nadpolovićnom većinom,koja uključuje većinu članova svakog konstitutivnog naroda",
+      "U pravilu nadpolovičnom većinom a za predlaganje amanadmana na ustav Federacije dvotrećinskom većinom"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "63.Kada stranka ili njen zakonski zastupnik u toku postupka promjene svoje prebivalište ili stan a o tome ne obavjeste  organ te se ne može utvrditi gdje se nalaze,dostavljanje se smatra izvršenim:",
+    "a": [
+      "protekom 8 dana od dana pribijanja pismena na oglasnoj ploči organa",
+      "protekom 15 dana od dana pribijanja pismena na oglasnoj ploči organa",
+      "protekom 30 dana"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "64.U postupku administrativnog izvršenja:",
+    "a": [
+      "može se izjaviti samo žalba kojom se pobija pravilnost rješenja koje se izvršava,",
+      "može se izjaviti žalba koja se odnosi samo na izvršenje",
+      "može se izjaviti žalba koja se odnosi i na izvršenje i na pravilnost rješenja koje se izvršava"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "65.Rok za podnošenje tužbe je:",
+    "a": [
+      "15 dana",
+      "30 dana",
+      "60 dana"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "66.Stvarna nadležnost za rješavanje u upravnom postupku određuje se:",
+    "a": [
+      "isključivo propisima kojima se uređuje određena upravna oblast",
+      "isključivo propisima kojima se određuje nadležnost pojedinog organa",
+      "propisima kojima se uređuje određena upravna oblast ili propisima kojima se određuje nadležnost pojedinogorgana"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "67.Prema Zakonu o upravnim sporovima u Federaciji BiH pravobranilac može pokrenuti upravni spor:",
+    "a": [
+      "U svim slučajevima kada je u pitanju državna imovina",
+      "U slučajevima kada to od njega traži Vlada F BiH ili Vlada kantona",
+      "Kada je konačnim upravnim aktom povrijeđen zakon na štetu Federacije,Kantona,Grada ili Općine"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "68.Sudstvo Distrikta je nezavisno,a čine ga:",
+    "a": [
+      "Osnovni sud i sud Brčko Distrikta",
+      "Osnovni sud i Apelacioni sud",
+      "Općinski sud i sud za prekršaje Brčko Distrikta BiH"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "69.Predsjedništvo BiH imenuje predsjedavajućeg Vijeća ministara BiH,koji preuzima dužnosti:",
+    "a": [
+      "Nakon odobrenja imenovanja od PS BiH",
+      "Po odobrenju imenovanja od Predstavničkog doma PS BiH",
+      "Danom obavljivanja u službenom glasniku BiH"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "70.Prema Ustavu BiH,entitet:",
+    "a": [
+      "Može sklapati sporazume sa državama i međunarodnim organizacijama uz saglasnost PS BiH,koja može zakonom  predvidjeti da za određene vrste sporazuma takva saglasnost nije potrebna",
+      "Može sklapati sporazume sa državama i međunarodnim organizacijama u okviru svojih nadležnosti",
+      "Ne može sklapati sporazume"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "71.Lica sa dvojnim državljanstvom mogu glasati u Bih samo:",
+    "a": [
+      "ako ne glasaju u drugoj državi čije državljanstvo imaju",
+      "ako je BiH država njihovog prebivališta",
+      "Ako to odobri PS BiH"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "72.Šta sadrži zahtjev za članstvo u EU?",
+    "a": [
+      "To je forma zvaničnog pisma koje potpisuje najviši izvršni organ,predsjednik ili premijer,u kojem zemlja izražava  spremnost da poštuje i promoviše vrijednosti na kojim se temelji EU",
+      "To je sporazum potpisan između zemlje kandidata za članstvo i Evropske komisije o ispunjavanju kriterija koji su  definisani kao Kopenhaski i Madridski kriteriji",
+      "Paket pisanih akata o izvršenim obavezama i procedurama koje su neophodne za pristupanje"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "73.Kako je utemeljeno djelovanje Evropske unije?",
+    "a": [
+      "Na ugovorima koje su odobrile sve članice EU",
+      "Na zakonima koje su odobrile sve članice EU",
+      "Na jedinstvenom stavu koji su odobrile sve članice EU"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "74.Prvo Europsko partnerstvo s BIH odnosno dokument kojim se određuje ključni prioriteti države u procesu pristupanja  EU,Vijeće EU usvojilo je:",
+    "a": [
+      "2004",
+      "2003",
+      "2005"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "75.Prvo istupanje iz EEZ dogodilo se 23.2.1982 istupanjem:",
+    "a": [
+      "Farskih otoka",
+      "Islanda",
+      "Grenlanda"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "76.U primarno zakonodavstvo EU ne ubrajamo:",
+    "a": [
+      "Ugovor iz Pariza",
+      "Direktive EU",
+      "Povelja Eu o temeljnim pravima"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "77.Kako se zove međuvladina mreža osnovana 1985 godine s ciljem jačanja europske konkurentnosti kroz podršku  poduzetništvu,istraživačkim centrima i sveučilištima,u kojoj Bih od 2009 godine ima status nacionalne kontakt tačke?",
+    "a": [
+      "Eureka",
+      "Eurosystem",
+      "Europe of Citiziens"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "78.Ugovor o osnivanju Europske zajednice za ugalj i čelik potpisan je 18.4.1951 u:",
+    "a": [
+      "Parizu",
+      "Rimu",
+      "Berlinu"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "79.Otpremanje pošte u organima uprave i službama za upravu u FBIH vrši se:",
+    "a": [
+      "Putem knjige za optremu pošte putem kurira i putem knjige za otpremu pošte putem poštanske službe",
+      "Isključivo putem knjige za otpremu pošte putem poštanske službe",
+      "Isključivo putem knjige za otpremu pošte putem kurira"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "80.Osnovna evidencija o aktima i predmetima u organima uprave u RS vodi se po sistemu:",
+    "a": [
+      "Fascikla i jedinstvenih klasifikacijskih oznaka",
+      "Kartoteke i jedinstvenih klasifikacijskih oznaka ili putem elektronske pošte",
+      "Jedinstvenih klasifikacijskih oznaka i elektronske obrade"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "81.Termin prilog u okviru kancelarijskog poslovanja F BiH ima sljedeće značenje:",
+    "a": [
+      "Prilog je samo fizički predmet koji se prilaže uz akt radi dopunjavanja,objašnjavanja ili dokazivanja sadržaja akta",
+      "Prilog je samo pisani sastav koji se prilaže uz akt radi dopunjavanja.....",
+      "Prilog je pisani sastav ( dokument,tabela,grafikon,crtež) ili fizički predmet koji se prilaže uz akt radi  dopunjavanja,objašnjenja ili dokazivanja sadržaja akta"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "82.Tko potpisuje potvrdu o prijemu podneska stranke koja lično predaje podnesak i zahtjeva izdavanje potvrde?",
+    "a": [
+      "Službenik koji je podnesak primio uz stavljanje otiska pečata organa,odnosno službe",
+      "Šef pisarnice",
+      "Rukovodilac organa uprave ili službe"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "83.Otisak prijemnog štambilja po pravilu se stavlja:",
+    "a": [
+      "U gornjem desnom uglu prve stranice akta",
+      "U lijevom gornjem uglu prve stranice akta",
+      "Bilo na kom slobodnom dijelu prve stranice akta"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "84.Jedinstvene klasifikacijske oznake predmeta i akta F BiH obilježene brojevima:",
+    "a": [
+      "01 do 30",
+      "01 do 49",
+      "01 do 75"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "85.Otprema računa i drugih financijskih akata nadležnim organima i službama vrši se:",
+    "a": [
+      "Preko interne dostavne knjige",
+      "Putem knjige za otpremu pošte",
+      "Putem knjige za otpremu računa"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "86.Da li državnom službeniku u skladu sa Zakonom o državnoj službi F BiH prestaje radni odnos u organu državne službe  zbog dvije uzastopno negativne ocjene rada:",
+    "a": [
+      "Da",
+      "Da,ako je ocjenjivanje provela ADS F BiH",
+      "Ne"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "87.Kada se može pokrenuti upravni spor protiv prvostepenog upravnog akta?",
+    "a": [
+      "Kada drugostepni organ odbije da rješava po žalbi na upravni akt donesen u prvostepenom postupku",
+      "Ako zakonom nije dozvoljena žalba na taj akt u upravnom postupku",
+      "Kada je upravni akt donesen od nenadležnog organa"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "88.Ukoliko organ na traženje suda ne dostavi spis predmeta odgovorna osoba u osobu podliježe:",
+    "a": [
+      "Prekšajnoj odgovornosti",
+      "Disciplinskoj odgovornosti",
+      "Kaznenoj odgovornosti"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "89.Prema Zakonu o upravnom postupku BIH rokovi za preduzimanje određenih upravnih radnji određuju se:",
+    "a": [
+      "Dane,sedmice,mjesece i godine",
+      "Dane i mjesece",
+      "Dane,mjesece i godine"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "90.Prema odredbama Zakona o upravnim sporovima RS,upravni spor se pokreće:",
+    "a": [
+      "Zahtjevom",
+      "Tužbom",
+      "Žalbom"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "91.O izuzeću gradonačelnika odnosno općinskog načelnika u rješavanju u upravnim stvarima odlučuje:",
+    "a": [
+      "Najviši sud Kantona",
+      "Predsjedatelj gradskog vijeća",
+      "Gradsko odnosno općinsko vijeće"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "92.Upravni postupak se smatra pokrenutim:",
+    "a": [
+      "podnošenjem zahtjeva stranke",
+      "zakazivanjem javne rasprave",
+      "poduzimanje bilo koje radnje vezane za postupak"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "93.Zakonom o upravnim sporovima F BiH propisano je da pravo pokretanja upravnog spora ima:",
+    "a": [
+      "Samo pojedinac",
+      "Samo pravno lice",
+      "Pojedinac ili pravno lice koji su učestvovali u upravnom postupku radi zaštite svojih prava ili pravnih interesa (  zainteresovano lice)"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "94.Prvi Evropski ugovor:",
+    "a": [
+      "Sklopljen u Strazburu i osnovao je EU",
+      "Sklopljen u Rimu i osnovao je Eu",
+      "Sklopljen u Parizu i osnovao je Evropsku zajednicu ugljena i nafte"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "95.Acquis communutauire,skraćeno acquis,naziva se i nasljeđem zajednice i znači:",
+    "a": [
+      "Skup prava i obaveza koja sve zemlje članice obavezuje i povezuje unutar EU",
+      "Skup pravila koja zemlja kandidat mora prihvatiti i uskladiti svoje zakonodavstvo sa acquis",
+      "Skup pravila koja se odnose na zemlje izvan EU"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "96.Koliko zvjezdica ima na zastavi EU?",
+    "a": [
+      "25",
+      "12",
+      "15"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "97.Zemlje članice procesa Stabilizacije i pridruživanja iz regiona jugoistočne Evrope su:",
+    "a": [
+      "Bih,Hrvatska,Srbija i Crna Gora",
+      "BiH,Hrvatska,Srbija i Crna Gora,Makedonija",
+      "BiH,Hrvatska,Srbija i Crna Gora,Albanija,Makedonija"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "98.BiH je postala članica Vijeća Evrope:",
+    "a": [
+      "1999",
+      "1992",
+      "2002"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "99.Bijela knjiga je:",
+    "a": [
+      "Dokument kojeg je sačinila Evropska komisija kao dio strategije za pripremu zemalja kandidata srednje i istočne  Evrope za integraciju na unutarnje tržište",
+      "Dokument koji sadrži pravila rada Evropskog parlamenta",
+      "Dokument koji sadrži pravila rada Evropske komisije"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "100.Evropska komisija je lansirala proces stabilizacije i pridruživanja:",
+    "a": [
+      "1999",
+      "1995",
+      "2002"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "101.Pojam Evropske unije uveden je ugovorm koji je potpisan:",
+    "a": [
+      "U Parizu 15.maja,1991 godine",
+      "U Masstrichtu,7.februara 1992 godine",
+      "U Londonu,10 marta 1991"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "102.Koja od navedenih nije institucija Vijeća Evrope iz Strazbura:",
+    "a": [
+      "Evropski sud pravde",
+      "Parlamentarna skupština",
+      "Komitet ministara",
+      "Kongres loklanih i regionalnih vlasti"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "103.Bijela knjiga od posebnog interesa za BiH nosi naziv:",
+    "a": [
+      "Put ka održivom razvoju",
+      "Pripreme pridruženih zemalja CEI Evrope za integraciju u unutarnje tržište EU",
+      "BIH put do unutarnjeg tržišta",
+      "104Provedba CARDS programa vrši se u skladu sa:",
+      "Odlukama Vijeća ministara i entiteskih vlada",
+      "Standardima i procedurama Evropske komisije",
+      "Programom rada Vijeća ministara BiH"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "105.Evropski parlament:",
+    "a": [
+      "Nema nikakvu ulogu u zakonodavnom procesu",
+      "Za razliku od Evropske komisije ima zadatak da štiti interese evropskih regija",
+      "Ima značajnu ulogu u zakonodavnom procesu u Europskoj uniji"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "106.Proces stabilizacije i pridruživanja vezuje se za:",
+    "a": [
+      "Sve zemlje kandidata za članstvo u EU",
+      "Zemlje koje su do sastanka u Beču 2000 godine predale zahtjev za prijem u članstvo u Eu",
+      "Zemlje Zapadnog Balkana"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "107.Jedinstveno tržište EU je formalno profunkcioniralo:",
+    "a": [
+      "1995",
+      "1992",
+      "2002"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "108.Predstavnici u Europski parlament:",
+    "a": [
+      "Iz vladajućih parlamentarnih stranaka zemalja članica",
+      "Iz Parlamenta članica EU",
+      "Na direktnim izborima za EU Parlament"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "109.Trenutna struktura EU je nastala:",
+    "a": [
+      "1993",
+      "1949",
+      "1958"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "110.Primarni izvori Evropskog prava:",
+    "a": [
+      "Presude suda prava",
+      "Ugovori na kojima se temelji današnja struktura EU",
+      "Nacionalni ustavi"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "111.Pregovori o sporazumu o stabilizaciji i pridruživanju će započeti:",
+    "a": [
+      "Sredinom 2005",
+      "Već su započeli",
+      "Čim BiH demonstrira značajan pogres u 16 prioritenih područja naznačenih u Studiji o izvodljivosti 112.Bijela knjiga sadrži:",
+      "22 od 31 poglavlja sadržanih u acquis communatarem",
+      "13 poglavlja",
+      "72 poglavlja propisanih u acquis"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "113.Evropsko Vijeće:",
+    "a": [
+      "Institucija Vijeća Evrope",
+      "Nije institucija Evropske Unije",
+      "Sastanak 15 šefova države ili vlade Evropske unije i predsjednika Evropske komisije"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "114.Sjedište Vijeća Evrope je u:",
+    "a": [
+      "Strazburu",
+      "Briselu",
+      "Berlinu"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "115.CARDS je:",
+    "a": [
+      "Program tehničke pomoći namijenjen od strane Evropske unije za obnovu i razvoj i stabilizaciju,namijenje  Albaniji,BiH,SR Jugoslaviji,Hrvatskoj i Makedoniji",
+      "Program tehničke pomoći od strane EU za obnovu putne infrastrukture u BiH",
+      "Program tehničke pomoći za izgradnju mostova"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "116.Evropska unija je:",
+    "a": [
+      "Sui generis struktura ni država ni međunarodna organizacija",
+      "Skup međunarodnih europskih organizacija",
+      "Konfederacija"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "117.Gdje se održavaju sastanci Evropskog vijeća?",
+    "a": [
+      "U zemlji koji trenutno predsjedava Europskom unijom",
+      "Brisel",
+      "Strazbur"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "118.EU je proces saradnje i integracije koji je započelo šest evropskih zemalja:",
+    "a": [
+      "EU je proces saradnje i integracije 1951 započelo šest zemalja",
+      "Belgija,Njemačka,Francuska,Italija,Nizozemska,Luksemburg .",
+      "1961",
+      "1951 na vojnom planu"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "119.Studij izvodivosti izrađuje:",
+    "a": [
+      "Evropska komisija",
+      "Vlada zemlje kandidata",
+      "Predstavnici EU"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "120.Za koordinaciju CARDS programa u BiH zadužena je:",
+    "a": [
+      "Direkcija za evropske integracije",
+      "Predsjedništvo BiH",
+      "Ministarstvo pravde BiH"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "121.Kriterij za članstvo u EU podrazumijevaju:",
+    "a": [
+      "Zaštitu ljudskih prava",
+      "Političke kriterije",
+      "Političke,ekonomske i pravne kriterije"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "122.Šta je Ekonomska i monetarna unija?",
+    "a": [
+      "To je proces u kojem zemlje članice EU usklađuju svoje ekonomske i monetarne politike,s krajnim ciljem  usvajanja jedinstvene valute EURa",
+      "To je skup zemalja kandidata za prihvatanje jedinstvene valute",
+      "To je skup evropskih zemalja"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "123.U institucije Europske unije ne spada:",
+    "a": [
+      "Evropski sud pravde",
+      "Evropski sud za zaštitu ljudskih prava",
+      "Evropski parlament"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "124.Kriterij za članstvo su:",
+    "a": [
+      "Dopunjeni u Madridu 1995. u pogledu institucionalnih kapaciteta države",
+      "Nisu nikada dopunjavani",
+      "Dopunjeni u Solunu"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "125.Bijela knjiga je:",
+    "a": [
+      "Dokument kojeg izrađuje Evropska komisija nastao kao rezultat diskusije o određenoj problematici i daje preporuke zatu oblast",
+      "Dokument koji inicira diskusije",
+      "Dokument sačinjen isključivo za BiH"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "126.Trenutna struktura Evropske unije se sastoji:",
+    "a": [
+      "Tri stuba",
+      "Nijedno od navedenog",
+      "Četiri stuba"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "128.Vijeće Europe je:",
+    "a": [
+      "Sastanak šefova",
+      "Međunarodna organizacija koja je osnovna funkcija zaštita ljudskih prava",
+      "Nadnacionalna organizacija"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "129.Evropski ustav:",
+    "a": [
+      "Solun 2003",
+      "Pariz 1951",
+      "U pripremi je"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "130.Zemlje članice Pakta stabilnosti iz regiona jugoistočne Evrope su:",
+    "a": [
+      "BiH,Hrvatska,Srbija i Crna Gora,Albanija,Makedonija,Bugarska,Rumunija,Slovenija,Grčka",
+      "BiH,Hrvatska,Srbija",
+      "Bih,Crna Gora,Albanija"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "131.Politički kriterij za članstvo u EU podrazumijevaju:",
+    "a": [
+      "Da je zemlja članica Vijeća Evrope",
+      "Postoji politička stabilnost u zemlji",
+      "Postojanje demokracije,vladavine prava te poštivanje ljudskih prava i prava manjina"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "132.Osnovni cilj vanjske politike EU je:",
+    "a": [
+      "Proaktivno djelovanje na globalnom nivou",
+      "Osigurati sigurnost,stabilnost,demokratiju i poštivanje ljudskih prava",
+      "Promovirati stabilnost između evropskih građana i naroda"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "133.Ukoliko je ugovorom o radu određen probni rad prema Zakonu o radu ne može trajati duže od:",
+    "a": [
+      "6 mjeseci",
+      "3 mjeseca",
+      "9 mjeseci"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "134.Da li žena može koristiti porođajno odsustvo u trajanju kraćem od 12 mjeseci u skladu sa zakonom o radu u  institucijama Bih?",
+    "a": [
+      "Da,ali ne kraće od 42 dana poslije porođaja",
+      "Ne može",
+      "Da,a li ne kraće od 40 dana poslije porođaja"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "135.Inspekcijski pregled u organima uprave u RS obuhvaća:",
+    "a": [
+      "Neposredan uvid inspektora u opće akte",
+      "Neposredan uvid inspektora u pojedinačne akte",
+      "Neposredan uvid inspektora u opće i pojedinačne akte,uslove i način rada subjekata nadzora u pogledu  pridržavanja propisa"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "136.Građanin EU označava:",
+    "a": [
+      "Lice koje ima državljanstvo zemlje kandidata za ulazak u Eu",
+      "Lice koje ima državljanstvo jedne od zemalja članice EU",
+      "Lice koje ima Eu državljanstvo"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "137.Prijedlog za izglasavanje nepovjerenja Vladi Rs može podnijeti:",
+    "a": [
+      "Nadpolovična većina narodnih poslanika",
+      "Najmanje 30 narodnih poslanika",
+      "Najmanje 20 narodnih poslanika"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "138.Pod kojim datumom će se zavesti akti koji se iz opravdanih razloga nisu mogli zavesti istog dana kad su primljeni:",
+    "a": [
+      "Pod datumom dana primitka ili dana zavođenja akta",
+      "Pod datumom dana zavođenja akta",
+      "Pod datumom kada su akti primljeni a nisu mogli biti zavedeni"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "139.Kancelarijsko poslovanje u organima uprave RS vodi se po sljedećim načelima:",
+    "a": [
+      "Načelo jednoboraznosti,obveznosti,urednosti,ekonomičnosti,racionalnosti",
+      "Načelo budnosti,sveoubhvatnosti",
+      "Načelo  obaveznosti,sveouhvatnosti,urednosti,ekonomičnosti,jedinstvenosti,točnsoti,eskepditivnosti,racionalnosti i  čuvanju vitalne dokumentacije"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "140.Prema Zakonu o upravnom postupku rješenje je konačno?",
+    "a": [
+      "Kad se protiv rješenja ne može izjaviti žalba",
+      "Kad se protiv rješenja ne može izjaviti žalba niti pokrenuti upravni spor",
+      "Kada se ne može pokrenuti upravni spor"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "141.Invalidska penzija u slučaju invalidnosti prouzrokovane bolešću ili povredom van rada u FBiH,ne može biti veća od:",
+    "a": [
+      "75",
+      "85",
+      "80"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "142.Ko osniva Odbor državne službe za žalbe F BiH?",
+    "a": [
+      "Vlada F BiH",
+      "ADS F Bih",
+      "Parlament F BiH"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "143.Da li je organ uprave samostalan u vođenju upravnog postupka i donošenju rješenja?",
+    "a": [
+      "Da, s tim što mora tražiti konsultacije od organa izvršne vlasti",
+      "Da, u potpunosti",
+      "Da,u okviru ovlasti datih Zakonom,drugim propisom i općim aktom"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "144.Madridski kriterij su:",
+    "a": [
+      "Osovni kriterij za članstvo koji se odnose na pravni kriterij",
+      "Dodatni kriterij za članstvo EU s kriterijima iz Kopenhagena",
+      "Ne predstavlaju kriterij za članstvo"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "145.Guvernera Centralne banke BiH nakon prvog mandata imenuje",
+    "a": [
+      "Predsjedništvo BiH na prijedlog Vijeća ministara i uz saglasnot PS BiH",
+      "PS BiH na prijedlog Predsjedništva BiH",
+      "Predsjedništvo BiH imenuje Upravni odbor koji bira guevernera između svojih članova"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "146.Službenik za rješavanje predmeta i akata dužan je sve riješene predmete i akte vratiti pisarnici:",
+    "a": [
+      "Putem interne dostavne knjige",
+      "Nije dužan vratiti predmete pisarnici",
+      "Neposredno bez interne dostavne knjige"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "147.Do kada se čuva rezervna lista uspješnih kandidata-Zakon o državnoj službi F BiH:",
+    "a": [
+      "Do isteka probnog rada postavljenoga državnog službenika",
+      "Do isteka žalbenog roka",
+      "Godinu dana od dana postavljenja državnog službenika"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "148.Po zahtjevu za odgodu izvršenja upravnog akta do donošenja sudske odluke odlučuje:",
+    "a": [
+      "Nadležni sud kome je tužba podnesena",
+      "Organ nadležan za provođenje izvršenja ili nadležni sud",
+      "Organ nadležan za provođenje izvršenja upravnog akta"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "149.Članove Evropske komisije čine:",
+    "a": [
+      "Predsjednici Vlada država članica",
+      "Povjerenici iz država članica",
+      "Ministri vanjskih poslova država članica"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "150.Drugostepeni predmet upravnog postupka ulaže se u omot označen:",
+    "a": [
+      "žutom bojom"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "151.Za pisarnicu treba osigurati prostoriju koja se po pravila nalazi blizu:",
+    "a": [
+      "Ulaza u zgradu odnosno na mjestu koje je pristupačno za dolazak stranke",
+      "Rukovodioca organa uprave",
+      "Na bilo kojem mjestu koje je prostorno pogodno za pisarnicu"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "152.Zakonodavnu vlast u RS po Ustavu:",
+    "a": [
+      "Vrši narodna skupština i dom naroda",
+      "Vrši narodna skupština",
+      "Vrše narodna skupština i vijeće naroda"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "153.Inspekcijske poslove,osim poslova upravne inspekcije,na teritoriji FBiH obavlja:",
+    "a": [
+      "Federalni upravni inspektorat u okviru Federalnog ministarstva pravde",
+      "Financijska policija u saradnji sa upravnom inspekcijom",
+      "Federalna uprava za inspekcijske poslove"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "154.Pristup informacijama u smislu Zakona o slobodi pristupa informacijama u F BiH podrazumijeva:",
+    "a": [
+      "Pravo svakog pravnog i fizičkog lica pristupa informacijama koje su pod kontrolom javnog organa i obavezu  javnog organa da tu informaciju saopći ukoliko pravo pristupa nije ograničeno zakonom",
+      "Pravo svakog fizičkog lica pristupa informacijama",
+      "Pravo svakog pravnog lica da pristupa informacijama"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "155.Ko je donio uredbu o kancelarijskom poslovanju republičkih organa uprave RS?",
+    "a": [
+      "Ministarstvo uprave i lokalne samouprave RS",
+      "Vlada Rs",
+      "Narodna skupština RS"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "156.U Zakonu o upravnom postupku Brčko Distrikta BiH propisano je da se eventualni sukob nadležnsoti entiteta i  Distrikts može riješiti?",
+    "a": [
+      "Odlukom PS BiH",
+      "Odlukom Vijeća ministara",
+      "Sporazumom Distrikta sa entitetima"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "157.U kojim slučajevima organi vlasti u FBiH imaju u Upravnom postupku prava i dužnosti stranke?",
+    "a": [
+      "Kada to posebnom odlukom zatraži Vlada Federacije,odnosno Vlada kantona",
+      "Kada su to zakonom ovlašteni da zastupaju javne interese",
+      "Uvijek kada ocijene da je to potrebno"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "158.Kojim aktom u organima uprave i službama za upravu u FBiH se određuju organizacione jedinice,odnosno radna  mjesta kojima se pošta dostavlja na rad ?",
+    "a": [
+      "Zakonom",
+      "Odlukom",
+      "Rješenjem"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "159.Ministri ili zamjenici ministara u Vijeću ministara BiH prije rasprave na sjednici Vijeća ministara BiH sva pitanja iz  svoje nadležnosti obvezno prethodno raspravljanju na sjednici:",
+    "a": [
+      "Nadležne komisije",
+      "Nadležnog komiteta",
+      "Nadležnog odbora"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "160.Drugo proširenje EEZ dogodilo se 1.1.1981. pristupanjem:",
+    "a": [
+      "Španjolske i Portugala",
+      "Grčke",
+      "Austrije,Švedske i Finske"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "161.Istočno partnerstvo EAP je inicijativa koja uključuje EU i šest istočnoevropskih partnera u cilju izgradnje  demokracije,prosperiteta,stabilnosti i suradnje.Koja od navedenih država nije djelom ove inicijative?",
+    "a": [
+      "Azerbejdžan",
+      "Armenije",
+      "Turska"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "162.U skladu sa Zakonom o državnoj službi u FBiH ,državni službenik ima pravo:",
+    "a": [
+      "Da,obavlja samostalnu djelatnost",
+      "Da osnuje ili da se učlani u sindikat ili profesionalno udruženje",
+      "Da bude član upravnih i drugih odbora političkih stranaka"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "163.Mogu li se pojedina pitanja za određenu upravnu oblast u FBiH urediti drugačije nego što su uređene Zakonom o  upravnom postupku FBiH?",
+    "a": [
+      "Mogu izuzetno,posebnim Federalnim zakonom ali ne protivno načelima Zakona o upravnom postupku",
+      "Ne mogu",
+      "Mogu o pitanjima iz isključive nadležnosti kantona,kantonalnim Zakonom"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "164.Evropski sud za ljudska prava ima broj sudija:",
+    "a": [
+      "30 sudija",
+      "Jednak broju visokih strana ugovornica",
+      "Kako odredi PS Vijeća Evrope"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "165.EU princip kojim se nastoji osigurati da se odluke donose što je moguće bliže građaninu naziva se:",
+    "a": [
+      "Princip proporcionalnosti",
+      "Princip ravnopravnosti",
+      "Princip supsidijarnosti"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "166.U skladu sa Zakonom o radu FBiH,kada zaposlenik otkazuje ugovor o radu,otkazni rok ne može biti kraći od:",
+    "a": [
+      "15 dana",
+      "7 dana",
+      "30 dana"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "167.U Zakonu o upravnim sporovima RS propisano je da se upravni spor:",
+    "a": [
+      "Može voditi samo protiv akta donesenog u prvom stepenu",
+      "Može voditi protiv konačnog upravnog akta",
+      "Ne može voditi protiv konačnog upravnog akta"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "168.Institucija EU mogu donijeti pet vrsta akata koje spadaju u sljedeće kategorije:",
+    "a": [
+      "Pravno obavezujući i neobavezujući akti",
+      "Samo neobavezujući akti",
+      "Samo obavezujući akti koji su usaglašeni sa aktima zemalja članica"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "169.EU princip kojim se nastoji osigurati da se odluke donose što je moguće bliže građaninu naziva se:",
+    "a": [
+      "Princip ravnopravnosti",
+      "Princip supsdijarnosti",
+      "Prinicip proporcionalnosti"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "170.Kako glasi kratica međuvladine organizacije koju su 1960. na inicijativu UK uspostavile  Austrija,Danska,Norveška,Portugal,Švedska i UK s ciljem promicanja slobodne trgovine i ekonomske integracije kroz  međuvladinu suradnju bez integriranja?",
+    "a": [
+      "EFTA",
+      "ECB",
+      "CEFTA"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "171.Koja zemlja je finansijski podržala Marsalov plan iz 1947 godine da pomogne obnovu i rekonstrukciju zemalja  Zapadne Europe?",
+    "a": [
+      "Rusija",
+      "SAD",
+      "Belgija",
+      "172,Termin predmet u okviru kancelarijskog poslovanja u organima uprave ima sljedeće značenje:",
+      "Predmet je svaki pisani akt u kancelarijskom poslovanju",
+      "Predmet je skup svih akata i priloga koji se odnose na isto pitanje ili zadatak i čini posebnu samostalnu cjelinu",
+      "Predmet je ma koji pisani akt koji se odlaže u arhivu"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "173.Je li nadležni organ dužan prevoditi informacije sa jednoga na drugi službeni jezik u BiH?",
+    "a": [
+      "Ovisi o odluci rukovoditelja javnog organa",
+      "Nije dužan",
+      "Dužan je u svakom slučaju ako tako zahtjeva podnositelj zahtjeva"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "174.Amandmani na kojima se mijenja i dopunjuje Ustav BiH donosi se:",
+    "a": [
+      "Odlukom PS kojim se potvršuje na referendumu",
+      "Odluka Parlamentarna skupštine koja kuljučuje dvotrećinsku većinu prisutnih i koji su glasali u Predstavničkom  domu",
+      "Odlukom PS koja uključuje dvotrećinsku većinu prisutnih i koji su glasali u svakom domu"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "175.Uloga glavnog kordinatora procesa europskih integracija na nivou države i između državnih institucija i entiteta  nadležna je:",
+    "a": [
+      "Direkcija Evropske unije u BiH",
+      "Vlada svakog entiteta za svoji dio obaveza",
+      "Direkcija za europske integracije Vijeća ministara BiH"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "176.Samostalne upravne organizacije BiH odgovorne su:",
+    "a": [
+      "Predsjedništvu BiH i Vijeću Ministara Bih",
+      "Vijeću ministara Bih",
+      "PS BiH i Vijeću ministara"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "177.Sve nadležne institucije u BiH su se obavezale da će sarađivati sa Međunarodnim krivičnim tribunalom za bivšu  Jugoslaviju:",
+    "a": [
+      "Prijemom BiH u Vijeću Evrope",
+      "Ustavom BiH",
+      "Potpisivanjem memoranduma o razumijevanju"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "178.Upravni spor se može voditi:",
+    "a": [
+      "konačnog upravnog akta",
+      "pravomoćnog upravnog akta",
+      "svakog akta uprave"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "179.Sjedište općine utvrđuje se :",
+    "a": [
+      "Statutom općine u skladu sa zakonom",
+      "Zakonom",
+      "Odlukom skupštine općine"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "180.Dani kada se ne radi i državni praznici?",
+    "a": [
+      "Odlažu početak ali ne i tok rokova",
+      "Ne sprečavaju početak i tok rokova",
+      "Produžavaju rok za onoliko dana ne radi i državni praznik"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "181.Koji su uslovi za starosnu penziju u skladu sa Zakonom o penzijskom i invalidskom osiguranju FBiH? a) 65 godina života i najmanje 26 godina penzijskog staža",
+    "a": [
+      "65 godina života i najmanje 16 godina staža osiguranja",
+      "65 godina života i najmanje 15 godina staža osiguranja,odnosno 20 godina penzijskog staža ili kada navrši 40 godina  staža bez obzira na godine života"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "182.Prema zakonu u upravnim sporovima odgovor na tužbu daje se u roku koji odredi sud koji ne može biti duži od :",
+    "a": [
+      "20 dana",
+      "30 dana",
+      "60 dana"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "183.Delegate u Domu naroda bira:",
+    "a": [
+      "Birači na izborima neposredno sa lista kandidata",
+      "Kantonalna skupština iz reda svojih članova",
+      "Predsjednik Federacije BiH uz saglasnost potpredsjednika Federacije BiH"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "184.Ministar odbrane ima:",
+    "a": [
+      "jednog zamjenika",
+      "dva zamjenika",
+      "tri zamjenika,po jednog iz svakog konstitutivnog naroda"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "185.Državljanstvo Brčko Distrikta BiH po Statutu:",
+    "a": [
+      "Stanovnici Distrikta imaju državljanstvo BiH i nemaju pravo na entitetsko",
+      "Stanovnici Distrikta mogu biti državljani entiteta i BiH i imaju pravo da izaberu i promijene svoje entitetsko  državljanstvo",
+      "Stanovnici Distrikta imaju državljanstvo BiH i državljanstvo Distrikta"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "186.U skladu sa zakonom o radu FBiH ugovor o radu na određeno vrijeme ne može se zaključiti:",
+    "a": [
+      "Na period duži od šest mjeseci",
+      "Duži od 36 mjeseci",
+      "Duži od 24 mjeseca"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "187.Prema izbornom zakonu BiH dio članova Komisije za izbor i imenovanje Centralne izborne komisije ne imenuje:",
+    "a": [
+      "Direktor Agencije za državnu službu BiH",
+      "Administrativna komisija PS BiH",
+      "Predsjednik Visokog sudskog i tužilačkog vijeća BiH"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "188.Postoji državljanstvo BiH i državljanstvo svakog entiteta pod uslovom da su svi:",
+    "a": [
+      "Državljani bilo kojeg entiteta samim tim su državljani BiH",
+      "Državljani republike BiH po sili zakona državljana BiH",
+      "Državljani BiH samim tim državljani bilo kojeg entiteta"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "189.Kriterij po kojima se vrši razvrstavanje predemta i akata u organima državne službe FBiH:",
+    "a": [
+      "Sadržaj materija koje se u predmetu ili aktu obrađuje",
+      "Datum prispjeća predmeta i akta",
+      "Povjerljiva i strogo povjerljiva priroda predmeta ili akta"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "190.Interni premještaj u skladu sa Zakonom o državnoj službi u FBiH sa radnog mjesta državnog službenika na slično  radno mjesto u istoj instituciji može biti:",
+    "a": [
+      "Dobrovoljan,uz saglasnot državnog službenika koji se premješta,a izuzetno i nametnut ako postoje objektivno  utvrđene i neodložne potrebe službenika",
+      "Dobrovoljan i ni u kom slučaju nametnu",
+      "Nametnut državnom službeniku prema potrebama državne službe"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "191.U osnivačke ugovore EU ne spada:",
+    "a": [
+      "Povelja o temeljnim pravima Eu 2007",
+      "Ugovor o osnivanju Europske zajednice za atomsku energiju 1957",
+      "Ugovor o osnivanju Europske zajednice za ugljen i čelik 1951"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "192.Pravo zakonodavne inicijative na nivou EU u nadležnosti je:",
+    "a": [
+      "Europske komisije",
+      "Vijeća Europske unije",
+      "Europski parlament"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "193.Da li probnom radu podliježu pripravnici u državnoj službi u FBiH:",
+    "a": [
+      "DA",
+      "Samo uz odgovarajuće rješenje rukovodioca organa državne slućbe",
+      "Ne"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "194.Zahtjev za vanredno preispitivanje sudske odluke podnosi se:",
+    "a": [
+      "Kantonalnom sudu",
+      "Vrhovnom sudu F BiH",
+      "Vrhovnom sudu FBiH ili kantonalnom sudu"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "195.O skraćenju radnog vremena zaposlenika koji rade na radnim mjestima sa posebnim uslovima rada odlučuje:",
+    "a": [
+      "Poslodavac",
+      "Ministar nadležan za poslove rada",
+      "Vlada"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "196.Republička direkcija za promet naoružanja i vojne opreme je:",
+    "a": [
+      "Samostalna republička upravna organizacija",
+      "Upravna organizacija u sastavu ministarstva trgovine i turizma",
+      "Upravna organizacija u sastavu Ministarstva energetike i rudarstva"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "197.Zakon o upravnom postupku FBiH propisano je da ako se rješenje objavi usmeno ono se:",
+    "a": [
+      "Mora izdati napismeno",
+      "Ne mora izdati napismeno",
+      "Izdaje napismeno ako to odluči rukovodilac organa"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "198.Zavođenje akata u odgovarajuću knjigu evidencije u organima uprave i službama za upravu u FBiH:",
+    "a": [
+      "Vrši se najkasnije dva dana po njihovom prispjeću",
+      "Vrši se istog dana i pod istim datumom pod koji su akti primljeni",
+      "Vrši se dan po njihovom prispijeću"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "199.U skladu sa zakonom o državnoj službi FBiH državni službenik ostvaruje pravo na otpremninu:",
+    "a": [
+      "Ako izgubi državljanstvo BiH",
+      "Ako se proglasi prekobrojnim",
+      "Dobrovoljno istupi iz državne službe"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "200.Koji predmet i akti se odlažu u arhivu organa uprave:",
+    "a": [
+      "Predmeti i akti u kojima je postupak u potpunosti okončan riješeni predmeti i akti",
+      "Predmeti koje odredi šef pisarnice",
+      "Predmeti koje odredi rukovodilac"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "201.Rukovođenje federalnim ministarstvima,federalnim upravama i federalnim upravnim organizacijama vrši se na načinpredviđen:",
+    "a": [
+      "Zakon o organizaciji organa uprave u Federaciji BiH",
+      "Zakonom o federalnim ministarstvima i drugim tijelima federalne uprave organa uprave",
+      "Zakonom o državnoj službi u Federaciji BiH"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "202.Sva novčana potraživanja iz radnog odnosa u skladu sa Zakonom o radu FBiH zastarijevaju u roku od:",
+    "a": [
+      "2 godine od dana nastanka obaveze",
+      "12 mjeseci od dana nastanka obaveze",
+      "3 godine od dana nastanka obaveze"
+    ],
+    "correct": 0
+  }
+]
